@@ -1,0 +1,430 @@
+# Just a list of tunes
+
+Aaron's tunes, most with links to examples.
+
+## Jazz-ish
+
+- 'Round Midnight
+    - [Amy Winehouse](https://www.youtube.com/watch?v=1IuALymbySw)
+    - [Miles Davis](https://www.youtube.com/watch?v=GIgLt7LAZF0)
+- (In My) Solitude
+    - [Billie Holiday](https://www.youtube.com/watch?v=8eLl84iMsrQ)
+- A Night in Tunisia
+    - [Ella Fitgerald](https://www.youtube.com/watch?v=6xQxN5Sxndc)
+    - [Petros Klampanis](https://www.youtube.com/watch?v=c0HM5QtJwUE) *(in 5/4, kinda cool)*
+- A Nightingale Sang in Berkeley Square
+    - [Manhattan Transfer](https://www.youtube.com/watch?v=NNHDKxjZBiQ)
+- A Sleepin' Bee
+    - [Barbara Streisand](https://www.youtube.com/watch?v=gJkb4xf5Zog)
+    - [Bill Evans](https://www.youtube.com/watch?v=oaF85S5jNBI)
+- Afro Blue
+    - [Robert Glasper ft. Erykah Badu](https://www.youtube.com/watch?v=3-0JZlrk4xA)
+    - [John Coltrane](https://www.youtube.com/watch?v=HuOfm6nSW4A)
+- Agua de Beber
+    - [Tom Jobim](https://www.youtube.com/watch?v=zkCkIGqGyAI)
+- Ain't Misbehavin'
+    - [Leon Redbone](https://www.youtube.com/watch?v=F6d1-k2p1Ck)
+- Alfie
+    - [Pat Metheny](https://www.youtube.com/watch?v=PuRHSt-6fHk)
+- Alice in Wonderland
+    - [Bill Evans](https://www.youtube.com/watch?v=CuzZ8mV9Zh8)
+- All Blues
+    - [Miles Davis](https://www.youtube.com/watch?v=JIfdYs8WErM)
+    - [Ari Hoenig/Jean-Michel Pilc](https://www.youtube.com/watch?v=QsZU9jNib08) *(in 11/8)*
+- All of Me
+    - [Willie Nelson](https://www.youtube.com/watch?v=X1ZSZUSrXc8)
+- All of You
+    - [All of You](https://www.youtube.com/watch?v=QMyM6_Ygq60)
+- All the Things You Are
+    - [Frank Sinatra](https://www.youtube.com/watch?v=OjZo4X9zmLA)
+    - [Ron Carter & Jim Hall](https://www.youtube.com/watch?v=_aeV4i-1aqQ)
+    - [Ari Hoenig](https://www.youtube.com/watch?v=Nmn2pISPlT4) *(in like... 10?)*
+- Alone Together
+    - [Ella Fitzgerald](https://www.youtube.com/watch?v=U84GERCaJic)
+    - [Chet Baker](https://www.youtube.com/watch?v=zdDhinO58ss)
+- Amazing Grace
+    - [John Raymond & Real Feels](https://www.youtube.com/watch?v=ojr8__Vy9LI)
+- Angel Eyes
+    - [Sting](https://www.youtube.com/watch?v=QS1MgqJ7B3Y)
+    - [Jim Hall](https://www.youtube.com/watch?v=DYaxhwqQV5A)
+- April in Paris
+    - [Thelonious Monk](https://www.youtube.com/watch?v=XmkhpbJtItI)
+- Autumn in New York
+    - [Kenny Dorham](https://www.youtube.com/watch?v=5f7aF8npx9M)
+- Autumn Leaves
+    - [Nat King Cole](https://www.youtube.com/watch?v=ZEMCeymW1Ow)
+    - [Bill Evans](https://www.youtube.com/watch?v=r-Z8KuwI7Gc)
+- Bags' Groove
+    - [J.J. Johnson](https://www.youtube.com/watch?v=VwvH-YyWeEo)
+- Beautiful Love
+    - [Bill Evans](https://www.youtube.com/watch?v=0vXB2WKky6M)
+- Bemsha Swing
+    - [Thelonious Monk](https://www.youtube.com/watch?v=NBzh-8SKB2U)
+- Besame Mucho
+    - [The Beatles](https://www.youtube.com/watch?v=dg48JepkiRo)
+    - [Wes Montgomery](https://www.youtube.com/watch?v=4HaM97bKobQ)
+- Billie's Bounce
+    - [Ari Hoenig](https://www.youtube.com/watch?v=Rr-d3tO-sXM) *(really good)*
+    - [Ella Fitgerald](https://www.youtube.com/watch?v=cLep2fmY6sw)
+- Birdland
+    - [Weather Report](https://www.youtube.com/watch?v=Ae0nwSv6cTU)
+    - [Manhattan Transfer](https://www.youtube.com/watch?v=cZHvsaVTrzQ)
+- Black Coffee
+    - [Sarah Vaughan](https://www.youtube.com/watch?v=CRyN9wQ1taY)
+- Blue Bossa *(lyrics exist for this, can't find a good example just yet)*
+    - [Joe Pass & J.J. Johnson](https://www.youtube.com/watch?v=aZm3UDxUiYU)
+- Blue in Green
+    - [Bill Evans](https://www.youtube.com/watch?v=mW_7gRH7ASE)
+- Blue Monk
+    - [Bill Evans](https://www.youtube.com/watch?v=xxV8RwIUC-g)
+- Blue Moon
+    - [Ella Fitzgerald](https://www.youtube.com/watch?v=dqwSde_eEv4)
+- Blue Rondo à la Turk
+    - [Dave Brubeck](https://www.youtube.com/watch?v=vKNZqM0d-xo) *(9/8 with a 4/4 blues section in the middle)*
+- Blue Skies
+- Blue Train
+    - [John Coltrane](https://www.youtube.com/watch?v=XpZHUVjQydI)
+- Blues for Alice
+    - [Rahsaan Roland Kirk](https://www.youtube.com/watch?v=d2yQAfOqTf4)
+- Bluesette
+    - [Lenny Breau](https://www.youtube.com/watch?v=C68PKBZebx8)
+    - [Toots Thielemans](https://www.youtube.com/watch?v=yKnG_9q4crA)
+- Body and Soul
+    - [Esperanza Spalding](https://www.youtube.com/watch?v=2Pyz76KlHqk)
+    - [Dexter Gordon](https://www.youtube.com/watch?v=pAHsHGJUm-8) *(cool reharmonization)*
+- Boplicity
+    - [Ari Hoenig + Gilad Hekselman](https://www.youtube.com/watch?v=x3xQM_iSQjA)
+- Brazil
+    - [João Gilberto](https://www.youtube.com/watch?v=vJCzA2FP5to)
+    - [Soundtrack from "Brazil"](https://www.youtube.com/watch?v=9HtHEgINHO0) *(also an awesome movie)*
+- But Not For Me
+    - [Ahmad Jamal](https://www.youtube.com/watch?v=d7Sktqhz6GI)
+- Bye Bye Blackbird
+- Cantaloupe Island
+    - [Nat Adderley](https://www.youtube.com/watch?v=_6OKJn4_sho)
+- Caravan
+    - [Ella Fitgerald](https://www.youtube.com/watch?v=5O_ICpYMUds)
+    - [Dave Brubeck](https://www.youtube.com/watch?v=6ed55ohqdxw)
+- Chameleon
+    - [Herbie Hancock](https://www.youtube.com/watch?v=UbkqE4fpvdI)
+- Cheek to Cheek
+- Chega de Saudade
+    - [João Gilberto](https://www.youtube.com/watch?v=yUuJrpP0Mak)
+- Chelsea Bridge
+    - [Billy Strayhorn](https://www.youtube.com/watch?v=7-jQ9lFiV7U)
+    - [Jim Hall](https://www.youtube.com/watch?v=3jk1pJCg8hs)
+- Cherokee
+    - [Clifford Brown](https://www.youtube.com/watch?v=M283JFxesic)
+    - [Europe](https://www.youtube.com/watch?v=lCbUZqN8JZ0) *(alright, maybe not the same... but still pretty awesome)*
+- Come Rain or Come Shine
+    - [Ray Charles](https://www.youtube.com/watch?v=Pxs3jGy9k9w)
+- Corcovado
+    - [Gal Costa](https://www.youtube.com/watch?v=ReE4jDvJVLw)
+- Consolação
+    - [Baden Powell](https://www.youtube.com/watch?v=wEtG2JwvcIE)
+    - [Monica Salmaso](https://www.youtube.com/watch?v=-L6RIvwEcWs)
+- Crazy
+     - [Patsy Cline](https://www.youtube.com/watch?v=2OVtpnpCOKM)
+- Cry Me A River
+    - [Ella Fitgerald](https://www.youtube.com/watch?v=2Gn9A-kdsRo)
+- Danny Boy
+    - [Bill Evans](https://www.youtube.com/watch?v=X5Sg0WGy9YA)
+- Darn That Dream
+    - [Chet Baker](https://www.youtube.com/watch?v=G3iwX6vpZx0)
+- Days of Wine and Roses
+    - [Andy Williams](https://www.youtube.com/watch?v=QARzdOL3-0w)
+    - [Bill Frisell](https://www.youtube.com/watch?v=Ae2KIktr3p4)
+- Desafinado
+    - [João Gilberto](https://www.youtube.com/watch?v=g6w3a2v_50U)
+- Detour Ahead
+    - [Ella Fitgerald](https://www.youtube.com/watch?v=Frxssz-hk0w)
+    - [Bill Evans](https://www.youtube.com/watch?v=YigeXvrJilk)
+- Dindi
+    - [Cyrille Aimée & Diego Figueiredo](https://www.youtube.com/watch?v=uFMag06xlKU)
+- Dolphin Dance
+    - [Chet Baker](https://www.youtube.com/watch?v=J_46WSRWUmA)
+- Don't Get Around Much Anymore
+- Donna Lee
+    - [Bireli Lagrene](https://www.youtube.com/watch?v=zpu8bbaA4wo)
+- Doodlin'
+    - [Sarah Vaughan](https://www.youtube.com/watch?v=_L11Zoab-gQ)
+    - [Horace Silver](https://www.youtube.com/watch?v=tu4o65SwUIw)
+- Doxy
+    - [Miles Davis](https://www.youtube.com/watch?v=XpueyrkcMyQ)
+- Easy Living
+    - [Norah Jones](https://www.youtube.com/watch?v=u3S5rXpo47w)
+- Embraceable You
+- Emily
+    - [Bill Evans](https://www.youtube.com/watch?v=wrWQndgX1QU)
+- Fall
+    - [Miles Davis](https://www.youtube.com/watch?v=ahaxXEheOiM)
+- Falling Grace
+    - [Chick Corea & Gary Burton](https://www.youtube.com/watch?v=M_0e9TClw8w)
+    - [Gary Burton](https://www.youtube.com/watch?v=wrhPRLjQ6N8)
+- Footprints
+    - [Wayne Shorter](https://www.youtube.com/watch?v=3XvJFW0DHbU)
+- Four
+- Freddie Freeloader
+- Gee, Baby, Ain't I Good To You
+    - [Ella Fitzgerald & Joe Pass](https://www.youtube.com/watch?v=DXHphfCXGgQ)
+- Georgia on My Mind
+- Giant Steps
+    - [Betty Carter](https://www.youtube.com/watch?v=P4AyCqCHCK0)
+    - 
+- Girl from Ipanema
+- God Bless the Child
+    - [Billie Holiday](https://www.youtube.com/watch?v=Z_1LfT1MvzI)
+    - [Blood, Sweat & Tears](https://www.youtube.com/watch?v=04rClGsbWp4)
+- Goodbye Pork Pie Hat
+    - [Joni Mitchell](https://www.youtube.com/watch?v=7bSuCOcL39U)
+    - [Charles Mingus](https://www.youtube.com/watch?v=6sfe_8RAaJ0)
+- Haitian Fight Song
+    - [Charles Mingus](https://www.youtube.com/watch?v=L7CoJEyiSfE)
+- Have You Met Miss Jones
+- Have Yourself a Merry Little Christmas
+- Heart and Soul
+- Here's That Rainy Day
+    - [Bill Evans](https://www.youtube.com/watch?v=rMa2VaV3Voo)
+- Honeysuckle Rose
+- Hot House
+- How Deep Is The Ocean?
+    - [Jim Hall](https://www.youtube.com/watch?v=Vime3JCpowA)
+- How High The Moon
+- How Insensitive
+    - [Astrud Gilberto](https://www.youtube.com/watch?v=4x2i2GITQ0Y)
+    - [William Shatner](https://www.youtube.com/watch?v=cqPOZjcvNQc)
+- I Ain't Got Nobody
+- I've Got a Crush on You
+    - [Petra Haden & Bill Frisell](https://www.youtube.com/watch?v=B3jDdA-Xvao)
+- I Got Rhythm
+    - [John Pizzarelli](https://www.youtube.com/watch?v=vVNVJGLVFCk)
+- I Hear a Rhapsody
+    - [Bill Evans & Jim Hall](https://www.youtube.com/watch?v=myUuXffyu_k)
+- I Loves You, Porgy
+    - [Petra Haden](https://www.youtube.com/watch?v=o9Qw-4gWJPI)
+- I Remember You
+    - [Glen Campbell](https://www.youtube.com/watch?v=9hky9OaPDOo)
+    - [Jim Hall](https://www.youtube.com/watch?v=VbWq_Cb6jyQ)
+- I'll Remember April
+    - [Errol Garner](https://www.youtube.com/watch?v=nMa--MNjdSw)
+- I've Got the World on a String
+    - [Ella Fitzgerald & Joe Pass](https://www.youtube.com/watch?v=VqCsa87-QCs)
+- If I Only Had a Brain
+- If You Could See Me Now
+    - [Sarah Vaughan](https://www.youtube.com/watch?v=8e_LN4qRgto)
+    - [Bill Evans](https://www.youtube.com/watch?v=0-ktJKj9NbA)
+- In a Mellow Tone
+    - [Graham Dechter](https://www.youtube.com/watch?v=K85NwAoVgxw)
+- In a Sentimental Mood
+- In Walked Bud
+    - [Carmen McRae](https://www.youtube.com/watch?v=CxdEYbMuA8s)
+    - [Fred Hersch](https://www.youtube.com/watch?v=Hw58HK3GYAg)
+- In Your Own Sweet Way
+    - [Bill Evans](https://www.youtube.com/watch?v=uyGyFPnmrBU)
+- Indiana
+    - [Lee Konitz](https://www.youtube.com/watch?v=4DfZ227l98s)
+- Inútil Paisagem
+    - [Esperanza Spalding & Gretchen Parlato](https://www.youtube.com/watch?v=0NbtMCB5g7E)
+- Israel
+    - [Bill Evans](https://www.youtube.com/watch?v=WGdr93tnNMk)
+- It Could Happen To You
+    - [Chet Baker](https://www.youtube.com/watch?v=WfGcJ-0Yr84)
+- It Don't Mean a Thing (If It Ain't Got That Swing)
+- Joy Spring
+    - [Manhattan Transfer](https://www.youtube.com/watch?v=R0K2k9yDMAE)
+    - [Joe Pass](https://www.youtube.com/watch?v=-Y7Ms1dmWys)
+- Just in Time
+    - [Just in Time](https://www.youtube.com/watch?v=6vnL0QkwTB0)
+- Just You, Just Me
+    - [Thelonious Monk](https://www.youtube.com/watch?v=ZKf2XlXRCOI)
+- Killer Joe
+- Lady Bird
+    - [Dexter Gordon](https://www.youtube.com/watch?v=EtuFaEzHJpM)
+- Lester Leaps In
+- Limehouse Blues
+- Lonely Woman (Horace Silver)
+    - [Pat Metheny](https://www.youtube.com/watch?v=WYbqFwFHAGQ)    
+    - [Horace Silver](https://www.youtube.com/watch?v=OkbwGv3QKQc)
+- Lonely Woman (Ornette Coleman)
+    - [Radka Toneff](https://www.youtube.com/watch?v=V_P3UStDjN4)
+    - [Ornette Coleman](https://www.youtube.com/watch?v=DNbD1JIH344)
+- Love for Sale
+- Lover Man (Oh, Where Can You Be?)
+    - [Blossom Dearie](https://www.youtube.com/watch?v=SavtWKnByOM)
+- Lush Life
+    - [Johnny Hartman & John Coltrane](https://www.youtube.com/watch?v=7d6_LUDa_Zw)
+- Maiden Voyage
+- Manhã de Carnaval
+    - [João Gilberto](https://www.youtube.com/watch?v=ZjKM6prE5Hw)
+    - [Baden Powell](https://www.youtube.com/watch?v=HgR7YJpOoPE)
+- Meet The Flintstones
+- Mercy, Mercy, Mercy
+    - [Jaco Pastorius](https://www.youtube.com/watch?v=ZLJt4P66VBQ)
+- Milestones
+- Misty
+- Moanin' (Bobby Timmons)
+    - [Wes Montgomery](https://www.youtube.com/watch?v=6M4K1_6y0j0)
+- Moment's Notice
+- Mood Indigo
+    - [Ella Fitzgerald & Joe Pass](https://www.youtube.com/watch?v=GT1elvDK0kE)
+    - [Charles Mingus](https://www.youtube.com/watch?v=HLVpJqNIRHo)
+- Moon River
+- Moonlight in Vermont
+- Mr. P.C.
+- My Blue Heaven
+    - [Mary Lou Williams](https://www.youtube.com/watch?v=CIUoUlmd6dg) *(super groovy)*
+- My Favorite Things
+- My Foolish Heart
+    - [Lenny Breau](https://www.youtube.com/watch?v=y2Uxc-ZSMuo)
+- My Funny Valentine
+    - [Chet Baker](https://www.youtube.com/watch?v=jvXywhJpOKs)
+    - [Bill Evans & Jim Hall](https://www.youtube.com/watch?v=ReOms_FY7EU)
+- My Heart Stood Still
+- My Ideal
+- My Little Suede Shoes
+    - [Art Farmer](https://www.youtube.com/watch?v=uC4tyUiDZ88)
+- My Man's Gone Now
+    - [Bill Evans](https://www.youtube.com/watch?v=R5rF1rAOY2w)
+- My One and Only Love
+- My Romance
+- Naima
+    - [Eric Dolphy](https://www.youtube.com/watch?v=oPiDFQJ15P8)
+- Nardis
+    - [Bill Evans](https://www.youtube.com/watch?v=qAeMI8w_9xc)
+- Never Let Me Go
+- Night and Day
+    - [Bill Evans](https://www.youtube.com/watch?v=N3xeX3MqJew)
+- No More Blues
+- Nobody Else But Me
+    - [Glenn Zaleski](https://www.youtube.com/watch?v=Rhquvuf8hns)
+- Now's the Time
+- Oleo
+    - [Joe Pass & Niels-Henning Ørsted Pedersen](https://www.youtube.com/watch?v=_RPkohp10EQ)
+- On Green Dolphin Street
+    - [Ella Fitzgerald & Joe Pass](https://www.youtube.com/watch?v=FpZg3VH8nJI)
+- On the Sunny Side of the Street
+- One Note Samba
+    - [Ella Fitzgerald & Joe Pass](https://www.youtube.com/watch?v=Xa5PO5BpfkY)
+- Our Delight
+- Out of Nowhere
+- Over the Rainbow
+- People
+    - [Bill Frisell](https://youtu.be/wgrnyNAkB2Y)
+- Perdido
+- Please Don't Talk About Me When I'm Gone
+    - [Leon Redbone](https://www.youtube.com/watch?v=GNXFyrQ6smU)
+    - [Oscar Peterson](https://www.youtube.com/watch?v=Vs4jgn8pKpA)
+- Poinciana
+    - [Ahmad Jamal](https://www.youtube.com/watch?v=Ev-3kIXlEGA)
+- Polka Dots and Moonbeams
+    - [Chet Baker](https://www.youtube.com/watch?v=GD2l7VwQpbg)
+- Poor Butterfly
+- Pure Imagination
+- Red Clay
+- Rhythm-A-Ning
+    - [Thelonious Monk](https://www.youtube.com/watch?v=6Di_mswqhLU)
+- Ruby, My Dear
+    - [Thelonious Monk](https://www.youtube.com/watch?v=jymS_7zyy7c)
+- Salt Peanuts
+    - [The Pointer Sisters](https://www.youtube.com/watch?v=-wfmckyg9r0)
+- Satin Doll
+- Scrapple from the Apple
+    - [Jim Hall](https://www.youtube.com/watch?v=F0pLNLUtx8A)
+- Secret Love
+    - [Jim Hall](https://www.youtube.com/watch?v=AiL9yc8hHgc)
+- Send in the Clowns
+- Seven Come Eleven
+- Shine on Harvest Moon
+    - [Leon Redbone](https://www.youtube.com/watch?v=jGUW0uAwDyw)
+- Skylark
+    - [Jim Hall](https://www.youtube.com/watch?v=6vNmK0VAidQ)
+- Smile
+    - [Cyrille Aimée & Diego Figueiredo](https://www.youtube.com/watch?v=8f6TWjEA4js)
+- So What
+- Softly, as in a Morning Sunrise
+    - [Emily Remler](https://www.youtube.com/watch?v=btc3sEHINBM)
+- Solar
+- Someday my Prince Will Come
+- Someone to Watch Over Me
+    - [Blossom Dearie](https://www.youtube.com/watch?v=oruxeiA06_4)
+- Song for My Father
+- Sophisticated Lady
+    - [Blossom Dearie](https://www.youtube.com/watch?v=tROM2cAOoeQ)
+- Spain
+    - [Some Berklee Kids](https://www.youtube.com/watch?v=YyNwc2O5gRA)
+    - [Bobby McFerrin & Chick Corea](https://www.youtube.com/watch?v=_o2RS8WfcbY)
+- Speak Low
+    - [Ella Fitzgerald & Joe Pass](https://www.youtube.com/watch?v=2CwPnp2VCYM)
+    - [Hank Mobley & Lee Morgan](https://www.youtube.com/watch?v=1AvWEoL7TB0)
+- St. Thomas
+    - [Mark Murphy](https://www.youtube.com/watch?v=tquRDyatTO0)
+    - [Sonny Rollins](https://www.youtube.com/watch?v=v4DTR0I7xhA)
+- Stardust
+    - [Dave Brubeck](https://www.youtube.com/watch?v=S3JcuEA0IrM)
+- Stella by Starlight
+    - [Robert Glasper](https://www.youtube.com/watch?v=I-VY-zs2eiY)
+- Straight, No Chaser
+- Sugar
+- Summertime
+- Sweet and Lovely
+    - [Ella Fitzgerald](https://www.youtube.com/watch?v=QY-jnv5ELGY)
+    - [Bill Evans](https://www.youtube.com/watch?v=hVCnz9OzYEA)
+- Sweet Georgia Brown
+- Sweet Lorraine
+    - [Leon Redbone](https://www.youtube.com/watch?v=FMmXKE2Gzyo)
+- Take Five
+- Take the "A" Train
+- Tea for Two
+    - [Bud Powell](https://www.youtube.com/watch?v=MnvJfB1sOug)
+- Tenderly
+    - [Chet Baker](https://www.youtube.com/watch?v=H6mfWun73vI)
+    - [Chet Atkins & Lenny Breau](https://www.youtube.com/watch?v=MAO-AtJq6sM)
+- Thanks for the Memory
+- That Old Feeling
+- The Nearness of You
+- The Shadow of Your Smile
+- The Surrey with the Fringe on Top
+    - [from "Oklahoma"](https://www.youtube.com/watch?v=BIG_GVE-KiE)
+    - [Ahmad Jamal](https://www.youtube.com/watch?v=wTET9-DFCbc)
+- The Way You Look Tonight
+    - [Frank Sinatra](https://www.youtube.com/watch?v=h9ZGKALMMuc)
+    - [Jim Hall](https://www.youtube.com/watch?v=qw9jPOUkiUs) *(in 3/4)*
+    - [Ari Hoenig](https://www.youtube.com/watch?v=sFShn3N8PtM) *(lots of cool weird time stuff)*
+- There Is No Greater Love
+    - [Oscar Peterson, Ray Brown & Niels-Henning Ørsted Pedersen](https://www.youtube.com/watch?v=0HEtFO9w3Ds)
+- They Can't Take That Away From Me
+    - [Jane Monheit & John Pizzarelli](https://www.youtube.com/watch?v=rU-R-ktyMFk)
+- Things Ain't What They Used To Be
+- Time After Time
+- Time Remembered
+    - [Bill Evans](https://www.youtube.com/watch?v=-SxMdU2iqPc)
+- Waltz for Debby
+    - [Tony Bennett & Bill Evans](https://www.youtube.com/watch?v=Jy6-8OwB0PI)
+- Watermelon Man
+- Wave  
+    - [Elis Regina & Toots Thielemans](https://www.youtube.com/watch?v=yh4su_xGJ84)
+    - [Fred Hersch & Bill Frisell](https://www.youtube.com/watch?v=NfkpObyxIGQ)
+- What a Wonderful World
+- What Is This Thing Called Love?
+    - [Ella Fitzgerald](https://www.youtube.com/watch?v=qo2P7AhMbxk)
+    - [Woody Shaw](https://www.youtube.com/watch?v=V6L43x8H_hA)
+- What the World Needs Now
+- What's New?
+    - [Dexter Gordon](https://www.youtube.com/watch?v=CrvWtdBOQW8)
+- When Sunny Gets Blue
+    - [McCoy Tyner](https://www.youtube.com/watch?v=7toKjKtbeeI)
+- When You Wish Upon a Star
+- Whisper Not
+    - [Benny Golson](https://www.youtube.com/watch?v=zN-23qB8GvM)
+    - [Or Bareket & Petros Klampanis](https://www.youtube.com/watch?v=TdUhHgeQmVw)
+- Willow Weep for Me
+- Yardbird Suite
+- Yesterdays
+- You and the Night and the Music
+    - [Bill Evans](https://www.youtube.com/watch?v=bxKo7kp5a6Y)
+- You Don't Know What Love Is
+    - [Warne Marsh](https://www.youtube.com/watch?v=v5dP7gp0Fqs)
+- You Took Advantage of Me
+    - [Ella Fitzgerald & Joe Pass](https://www.youtube.com/watch?v=e0qHYKnqSww)
+- You'd Be So Nice to Come Home To
+    - [Chet Baker](https://www.youtube.com/watch?v=nB1Lr6HBbu0)
