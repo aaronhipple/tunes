@@ -1,20 +1,40 @@
 # Just a list of tunes
 
-Tunes I play, most with links to examples.
+## Country/Bluegrass-ish
 
-## Rock-ish
+- Crazy
+    - [Patsy Cline](https://www.youtube.com/watch?v=2OVtpnpCOKM)
+- Deep River Blues
+    - [Doc Watson](https://www.youtube.com/watch?v=6VAbrnjdtYw)
+- Tennessee Waltz
+    - [Norah Jones](https://www.youtube.com/watch?v=IquT_zm2O7M)
 
+## Rock/Pop/Fusion/Funk/R&B-ish
+
+- Actual Proof
+    - [Herbie Hancock](https://www.youtube.com/watch?v=m0c38Wtdvz0)
+    - [Ari Hoenig](https://www.youtube.com/watch?v=FSbXV4vBfuA)
+- Ain't No Sunshine
+    - [Bill Withers](https://www.youtube.com/watch?v=tIdIqbv7SPo)
 - Africa
     - [Toto](https://www.youtube.com/watch?v=FTQbiNvZqaY)
+- Chameleon
+    - [Herbie Hancock](https://www.youtube.com/watch?v=UbkqE4fpvdI)
+- Don't You Worry Bout A Thing
+    - [Stevie Wonder](https://www.youtube.com/watch?v=zywDiFdxopU)
 - Everybody Wants To Rule The World
     - [Tears For Fears](https://www.youtube.com/watch?v=ST86JM1RPl0)
     - [The Bad Plus](https://www.youtube.com/watch?v=q9hOSZGMXlI)
+- Heart of Glass
+    - [Blondie](https://www.youtube.com/watch?v=WGU_4-5RaxU)
+    - [The Bad Plus](https://www.youtube.com/watch?v=MjyYX9gYOis)
 - I Can't Go For That
     - [Hall & Oates](https://www.youtube.com/watch?v=ccenFp_3kq8)
     - [Nicki Bluhm](https://www.youtube.com/watch?v=WJiCUdLBxuI)
-- Heart of Glass
-    - [Blondie](https://www.youtube.com/results?search_query=heart+of+glass)
-    - [The Bad Plus](https://www.youtube.com/watch?v=MjyYX9gYOis)
+- I Wish
+    - [Stevie Wonder](https://www.youtube.com/watch?v=hYKYka-PNt0)
+- Just The Two Of Us
+    - [Bill Withers](https://www.youtube.com/watch?v=jEy6MGu3bIA)
 
 ## Jazz-ish
 
@@ -119,8 +139,6 @@ Tunes I play, most with links to examples.
 - Caravan
     - [Ella Fitgerald](https://www.youtube.com/watch?v=5O_ICpYMUds)
     - [Dave Brubeck](https://www.youtube.com/watch?v=6ed55ohqdxw)
-- Chameleon
-    - [Herbie Hancock](https://www.youtube.com/watch?v=UbkqE4fpvdI)
 - Cheek to Cheek
 - Chega de Saudade
     - [João Gilberto](https://www.youtube.com/watch?v=yUuJrpP0Mak)
@@ -137,8 +155,6 @@ Tunes I play, most with links to examples.
 - Consolação
     - [Baden Powell](https://www.youtube.com/watch?v=wEtG2JwvcIE)
     - [Monica Salmaso](https://www.youtube.com/watch?v=-L6RIvwEcWs)
-- Crazy
-     - [Patsy Cline](https://www.youtube.com/watch?v=2OVtpnpCOKM)
 - Cry Me A River
     - [Ella Fitgerald](https://www.youtube.com/watch?v=2Gn9A-kdsRo)
 - Danny Boy
@@ -270,6 +286,7 @@ Tunes I play, most with links to examples.
 - Lush Life
     - [Johnny Hartman & John Coltrane](https://www.youtube.com/watch?v=7d6_LUDa_Zw)
 - Maiden Voyage
+    - [Herbie Hancock](https://www.youtube.com/watch?v=hwmRQ0PBtXU)
 - Manhã de Carnaval
     - [João Gilberto](https://www.youtube.com/watch?v=ZjKM6prE5Hw)
     - [Baden Powell](https://www.youtube.com/watch?v=HgR7YJpOoPE)
@@ -286,6 +303,7 @@ Tunes I play, most with links to examples.
     - [Ella Fitzgerald & Joe Pass](https://www.youtube.com/watch?v=GT1elvDK0kE)
     - [Charles Mingus](https://www.youtube.com/watch?v=HLVpJqNIRHo)
 - Moon River
+    - [Petra Haden](https://www.youtube.com/watch?v=wawPLliqaf4)
 - Moonlight in Vermont
     - [Johnny Smith](https://www.youtube.com/watch?v=gRNpc-hFkCs)
 - Mr. P.C.
@@ -325,6 +343,7 @@ Tunes I play, most with links to examples.
     - [Ella Fitzgerald & Joe Pass](https://www.youtube.com/watch?v=Xa5PO5BpfkY)
 - Our Delight
 - Out of Nowhere
+    - [Jimmy Raney](https://www.youtube.com/watch?v=tW2w0SSBZlk)
 - Over the Rainbow
 - People
     - [Bill Frisell](https://youtu.be/wgrnyNAkB2Y)
