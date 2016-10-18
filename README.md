@@ -274,6 +274,8 @@
     - [Dexter Gordon](https://www.youtube.com/watch?v=EtuFaEzHJpM)
 - Lester Leaps In
 - Limehouse Blues
+- Little Sunflower
+    - [Brian Blade, Sam Yahel & Peter Bernstein](https://www.youtube.com/watch?v=A4baRkWcQaE)
 - Lonely Woman (Horace Silver)
     - [Pat Metheny](https://www.youtube.com/watch?v=WYbqFwFHAGQ)    
     - [Horace Silver](https://www.youtube.com/watch?v=OkbwGv3QKQc)
