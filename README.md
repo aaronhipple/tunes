@@ -1,6 +1,20 @@
 # Just a list of tunes
 
-Aaron's tunes, most with links to examples.
+Tunes I play, most with links to examples.
+
+## Rock-ish
+
+- Africa
+    - [Toto](https://www.youtube.com/watch?v=FTQbiNvZqaY)
+- Everybody Wants To Rule The World
+    - [Tears For Fears](https://www.youtube.com/watch?v=ST86JM1RPl0)
+    - [The Bad Plus](https://www.youtube.com/watch?v=q9hOSZGMXlI)
+- I Can't Go For That
+    - [Hall & Oates](https://www.youtube.com/watch?v=ccenFp_3kq8)
+    - [Nicki Bluhm](https://www.youtube.com/watch?v=WJiCUdLBxuI)
+- Heart of Glass
+    - [Blondie](https://www.youtube.com/results?search_query=heart+of+glass)
+    - [The Bad Plus](https://www.youtube.com/watch?v=MjyYX9gYOis)
 
 ## Jazz-ish
 
@@ -144,6 +158,7 @@ Aaron's tunes, most with links to examples.
 - Dolphin Dance
     - [Chet Baker](https://www.youtube.com/watch?v=J_46WSRWUmA)
 - Don't Get Around Much Anymore
+    - [John Pizzarelli](https://www.youtube.com/watch?v=sZN1XQCFaeM)
 - Donna Lee
     - [Bireli Lagrene](https://www.youtube.com/watch?v=zpu8bbaA4wo)
 - Doodlin'
@@ -170,7 +185,6 @@ Aaron's tunes, most with links to examples.
 - Georgia on My Mind
 - Giant Steps
     - [Betty Carter](https://www.youtube.com/watch?v=P4AyCqCHCK0)
-    - 
 - Girl from Ipanema
 - God Bless the Child
     - [Billie Holiday](https://www.youtube.com/watch?v=Z_1LfT1MvzI)
@@ -181,6 +195,7 @@ Aaron's tunes, most with links to examples.
 - Haitian Fight Song
     - [Charles Mingus](https://www.youtube.com/watch?v=L7CoJEyiSfE)
 - Have You Met Miss Jones
+    - [Chet Baker](https://www.youtube.com/watch?v=2G8UTMtY0JM)
 - Have Yourself a Merry Little Christmas
 - Heart and Soul
 - Here's That Rainy Day
@@ -216,6 +231,7 @@ Aaron's tunes, most with links to examples.
 - In a Mellow Tone
     - [Graham Dechter](https://www.youtube.com/watch?v=K85NwAoVgxw)
 - In a Sentimental Mood
+    - [Jim Hall](https://www.youtube.com/watch?v=qOq9u7wIbQM)
 - In Walked Bud
     - [Carmen McRae](https://www.youtube.com/watch?v=CxdEYbMuA8s)
     - [Fred Hersch](https://www.youtube.com/watch?v=Hw58HK3GYAg)
@@ -262,6 +278,7 @@ Aaron's tunes, most with links to examples.
     - [Jaco Pastorius](https://www.youtube.com/watch?v=ZLJt4P66VBQ)
 - Milestones
 - Misty
+    - [Errol Garner](https://www.youtube.com/watch?v=P_tAU3GM9XI)
 - Moanin' (Bobby Timmons)
     - [Wes Montgomery](https://www.youtube.com/watch?v=6M4K1_6y0j0)
 - Moment's Notice
@@ -270,6 +287,7 @@ Aaron's tunes, most with links to examples.
     - [Charles Mingus](https://www.youtube.com/watch?v=HLVpJqNIRHo)
 - Moon River
 - Moonlight in Vermont
+    - [Johnny Smith](https://www.youtube.com/watch?v=gRNpc-hFkCs)
 - Mr. P.C.
 - My Blue Heaven
     - [Mary Lou Williams](https://www.youtube.com/watch?v=CIUoUlmd6dg) *(super groovy)*
@@ -321,6 +339,7 @@ Aaron's tunes, most with links to examples.
 - Poor Butterfly
 - Pure Imagination
 - Red Clay
+    - [Freddie Hubbard](https://www.youtube.com/watch?v=wA1ZelIbUfI)
 - Rhythm-A-Ning
     - [Thelonious Monk](https://www.youtube.com/watch?v=6Di_mswqhLU)
 - Ruby, My Dear
@@ -344,6 +363,7 @@ Aaron's tunes, most with links to examples.
 - Softly, as in a Morning Sunrise
     - [Emily Remler](https://www.youtube.com/watch?v=btc3sEHINBM)
 - Solar
+    - [Bill Evans](https://www.youtube.com/watch?v=ObtLNz7NQuQ)
 - Someday my Prince Will Come
 - Someone to Watch Over Me
     - [Blossom Dearie](https://www.youtube.com/watch?v=oruxeiA06_4)
@@ -365,6 +385,7 @@ Aaron's tunes, most with links to examples.
     - [Robert Glasper](https://www.youtube.com/watch?v=I-VY-zs2eiY)
 - Straight, No Chaser
 - Sugar
+    - [Stanley Turrentine](https://www.youtube.com/watch?v=oLaIrVB1av4)
 - Summertime
 - Sweet and Lovely
     - [Ella Fitzgerald](https://www.youtube.com/watch?v=QY-jnv5ELGY)
@@ -381,7 +402,9 @@ Aaron's tunes, most with links to examples.
     - [Chet Atkins & Lenny Breau](https://www.youtube.com/watch?v=MAO-AtJq6sM)
 - Thanks for the Memory
 - That Old Feeling
+    - [Chet Baker](https://www.youtube.com/watch?v=Gblzp8h4tyw)
 - The Nearness of You
+    - [Bill Charlap](https://www.youtube.com/watch?v=DyAY4QA2unY)
 - The Shadow of Your Smile
 - The Surrey with the Fringe on Top
     - [from "Oklahoma"](https://www.youtube.com/watch?v=BIG_GVE-KiE)
@@ -401,6 +424,7 @@ Aaron's tunes, most with links to examples.
 - Waltz for Debby
     - [Tony Bennett & Bill Evans](https://www.youtube.com/watch?v=Jy6-8OwB0PI)
 - Watermelon Man
+    - [Herbie Hancock](https://www.youtube.com/watch?v=ZbHJHPTikQA)
 - Wave  
     - [Elis Regina & Toots Thielemans](https://www.youtube.com/watch?v=yh4su_xGJ84)
     - [Fred Hersch & Bill Frisell](https://www.youtube.com/watch?v=NfkpObyxIGQ)
@@ -409,6 +433,7 @@ Aaron's tunes, most with links to examples.
     - [Ella Fitzgerald](https://www.youtube.com/watch?v=qo2P7AhMbxk)
     - [Woody Shaw](https://www.youtube.com/watch?v=V6L43x8H_hA)
 - What the World Needs Now
+    - [Bill Frisell](https://www.youtube.com/watch?v=mnxLaUsqf_s)
 - What's New?
     - [Dexter Gordon](https://www.youtube.com/watch?v=CrvWtdBOQW8)
 - When Sunny Gets Blue
@@ -419,7 +444,9 @@ Aaron's tunes, most with links to examples.
     - [Or Bareket & Petros Klampanis](https://www.youtube.com/watch?v=TdUhHgeQmVw)
 - Willow Weep for Me
 - Yardbird Suite
+    - [Charlie Parker](https://www.youtube.com/watch?v=HmroWIcCNUI)
 - Yesterdays
+    - [Wes Montgomery](https://www.youtube.com/watch?v=YVE3a5P76g4)
 - You and the Night and the Music
     - [Bill Evans](https://www.youtube.com/watch?v=bxKo7kp5a6Y)
 - You Don't Know What Love Is
