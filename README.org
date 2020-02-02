@@ -285,7 +285,7 @@ From "The Muppet Movie"
 * [#A] Scrapple from the Apple :BEBOP:
 :PROPERTIES:
 :Composer: Charlie Parker
-:CHANGES:  Honeysuckle Rose
+:CHANGES:  Honeysuckle Rose (Rhythm Changes bridge)
 :END:
 * [#A] Skylark :BALLAD:STANDARD:
 :PROPERTIES:
@@ -546,6 +546,9 @@ From "Willy Wonka & The Chocolate Factory"
 :Composer: Thelonius Monk
 :END:
 * [#C] So Danco Samba :BOSSA:
+:PROPERTIES:
+:CHANGES:  Take the "A" Train (altered bridge)
+:END:
 * [#C] Someone to Watch Over Me :STANDARD:BALLAD:
 * [#C] Tenderly :STANDARD:BALLAD:
 * [#C] The Way You Look Tonight :STANDARD:BALLAD:
