@@ -2,158 +2,165 @@
 #+COLUMNS: %50ITEM(Tune) %1PRIORITY(F) %Composer %Changes %30TAGS(Tags)
 
 #+BEGIN: columnview :id global
-| Tune                                   | F | Composer         | Changes          | Tags              |
-|----------------------------------------+---+------------------+------------------+-------------------|
-| Alice in Wonderland                    | A |                  |                  | :DISNEY:MOVIE:    |
-| All of You                             | A |                  |                  | :STANDARD:        |
-| All The Things You Are                 | A |                  |                  | :STANDARD:        |
-| Alone Together                         | A |                  |                  | :BALLAD:STANDARD: |
-| A Night in Tunisia                     | A | Dizzy Gillespie  |                  | :BEBOP:LATIN:     |
-| Anthropology                           | A | Charlie Parker   | [[*I Got Rhythm][I Got Rhythm]]     | :RHYTHM:          |
-| Autumn Leaves                          | A |                  |                  | :STANDARD:BALLAD: |
-| Bags' Groove                           | A |                  |                  | :BLUES:BEBOP:     |
-| Beautiful Love                         | A |                  |                  | :BALLAD:STANDARD: |
-| Billie's Bounce                        | A | Charlie Parker   |                  | :BLUES:BEBOP:     |
-| Blue Bossa                             | A | Kenny Dorham     |                  | :BOSSA:           |
-| Blue Monk                              | A | Thelonius Monk   |                  | :BLUES:BEBOP:     |
-| Body and Soul                          | A |                  |                  | :STANDARD:        |
-| Boplicity                              | A |                  |                  | :BEBOP:           |
-| Cantaloupe Island                      | A | Herbie Hancock   |                  | :HARDBOP:         |
-| Caravan                                | A |                  |                  |                   |
-| Corcovado                              | A | Tom Jobim        |                  | :BOSSA:           |
-| Donna Lee                              | A | Miles Davis      | [[*Indiana][Indiana]]          | :BEBOP:           |
-| Doxy                                   | A | Sonny Rollins    |                  | :BEBOP:           |
-| Embraceable You                        | A |                  |                  | :STANDARD:BALLAD: |
-| Georgia on My Mind                     | A |                  |                  | :BALLAD:STANDARD: |
-| Giant Steps                            | A | John Coltrane    |                  | :BEBOP:           |
-| Girl from Ipanema                      | A | Tom Jobim        |                  | :BOSSA:           |
-| Have You Met Mrs. Jones?               | A |                  |                  | :STANDARD:        |
-| Have Yourself a Merry Little Christmas | A |                  |                  | :CHRISTMAS:       |
-| Honeysuckle Rose                       | A |                  |                  | :STANDARD:        |
-| If I Only Had A Brain                  | A |                  |                  | :MOVIE:           |
-| I Got Rhythm                           | A |                  |                  | :STANDARD:        |
-| I'll Remember April                    | A |                  |                  | :STANDARD:        |
-| In a Mellow Tone                       | A | Duke Ellington   |                  |                   |
-| In a Sentimental Mood                  | A | Duke Ellington   |                  |                   |
-| I Remember You                         | A |                  |                  | :BALLAD:          |
-| Lester Leaps In                        | A |                  | [[*I Got Rhythm][I Got Rhythm]]     |                   |
-| Like Someone in Love                   | A |                  |                  | :STANDARD:        |
-| Maiden Voyage                          | A | Herbie Hancock   |                  | :MODAL:           |
-| Mercy, Mercy, Mercy                    | A |                  |                  | :HARDBOP:         |
-| Misty                                  | A |                  |                  | :STANDARD:        |
-| Mr P.C.                                | A | John Coltrane    |                  | :BEBOP:BLUES:     |
-| My Favorite Things                     | A |                  |                  | :MOVIE:           |
-| My Funny Valentine                     | A |                  |                  |                   |
-| Naima                                  | A |                  |                  |                   |
-| Nardis                                 | A |                  |                  |                   |
-| Night and Day                          | A |                  |                  |                   |
-| Oleo                                   | A | Sonny Rollins    | [[*I Got Rhythm][I Got Rhythm]]     | :RHYTHM:          |
-| One Note Samba                         | A | Tom Jobim        |                  | :BOSSA:           |
-| Rainbow Connection                     | A |                  |                  | :BALLAD:MOVIE:    |
-| Rhythm-A-Ning                          | A | Thelonius Monk   | [[*I Got Rhythm][I Got Rhythm]]     | :RHYTHM:BEBOP:    |
-| Salt Peanuts                           | A |                  | [[*I Got Rhythm][I Got Rhythm]]     | :BEBOP:           |
-| Scrapple from the Apple                | A | Charlie Parker   | [[*Honeysuckle Rose][Honeysuckle Rose]] | :BEBOP:           |
-| Skylark                                | A | Hoagy Carmichael |                  | :BALLAD:STANDARD: |
-| Solar                                  | A | Miles Davis      |                  | :BEBOP:           |
-| Someday My Prince Will Come            | A |                  |                  | :DISNEY:MOVIE:    |
-| Song for my Father                     | A | Horace Silver    |                  | :HARDBOP:         |
-| So What                                | A | Miles Davis      |                  | :MODAL:           |
-| Stella by Starlight                    | A |                  |                  | :STANDARD:        |
-| St. Thomas                             | A | Sonny Rollins    |                  |                   |
-| Take the "A" Train                     | A |                  |                  |                   |
-| Tea for Two                            | A |                  |                  |                   |
-| Watermelon Man                         | A | Herbie Hancock   |                  | :HARDBOP:         |
-| Wave                                   | A | Tom Jobim        |                  | :BOSSA:           |
-| We See                                 | A | Thelonius Monk   |                  | :BEBOP:           |
-| What is This Thing Called Love?        | A |                  |                  | :STANDARD:        |
-| When You Wish Upon a Star              | A |                  |                  | :DISNEY:MOVIE:    |
-| Alfie                                  | B |                  |                  | :BALLAD:MOVIE:    |
-| All Blues                              | B | Miles Davis      |                  | :MODAL:BLUES:     |
-| Angel Eyes                             | B |                  |                  | :BALLAD:STANDARD: |
-| A Nightingale Sang in Berkeley Square  | B |                  |                  | :STANDARD:BALLAD: |
-| Autumn in New York                     | B |                  |                  | :BALLAD:STANDARD: |
-| Bluesette                              | B | Toots Thielemans |                  |                   |
-| Blue Skies                             | B |                  |                  | :STANDARD:        |
-| Brazil                                 | B |                  |                  |                   |
-| Cherokee                               | B |                  |                  |                   |
-| Countdown                              | B |                  |                  | :BEBOP:           |
-| Darn that Dream                        | B |                  |                  | :STANDARD:        |
-| Desafinado                             | B | Tom Jobim        |                  | :BOSSA:           |
-| Dindi                                  | B |                  |                  | :BOSSA:           |
-| Dolphin Dance                          | B | Herbie Hancock   |                  | :HARDBOP:         |
-| Doodlin'                               | B | Horace Silver    |                  | :BLUES:HARDBOP:   |
-| Emily                                  | B | Johnny Mandel    |                  | :BALLAD:MOVIE:    |
-| Fall                                   | B | Wayne Shorter    |                  | :POSTBOP:         |
-| Footprints                             | B | Wayne Shorter    |                  | :POSTBOP:         |
-| Four                                   | B | Miles Davis      |                  | :BEBOP:           |
-| Gee, Baby, Ain't I Good To You         | B |                  |                  | :STANDARD:        |
-| God Bless The Child                    | B |                  |                  | :STANDARD:BALLAD: |
-| Goodbye Pork Pie Hat                   | B |                  |                  |                   |
-| Here's That Rainy Day                  | B |                  |                  | :STANDARD:        |
-| How Deep Is The Ocean?                 | B |                  |                  |                   |
-| How High The Moon?                     | B |                  |                  |                   |
-| I Ain't Got Nobody                     | B |                  |                  |                   |
-| Indiana                                | B |                  |                  | :STANDARD:        |
-| In Walked Bud                          | B | Thelonius Monk   | [[*Blue Skies][Blue Skies]]       | :BEBOP:           |
-| In Your Own Sweet Way                  | B | Dave Brubeck     |                  |                   |
-| Israel                                 | B |                  |                  | :BLUES:           |
-| It Could Happen To You                 | B |                  |                  |                   |
-| It Don't Mean a Thing                  | B |                  |                  |                   |
-| I've Got a Crush On You                | B |                  |                  |                   |
-| I've Got the World on a String         | B |                  |                  |                   |
-| Joy Spring                             | B | Clifford Brown   |                  |                   |
-| Little Sunflower                       | B |                  |                  | :MODAL:           |
-| Lover Man                              | B |                  |                  | :BALLAD:STANDARD: |
-| Manha de Carnaval                      | B |                  |                  | :BOSSA:           |
-| Moment's Notice                        | B | John Coltrane    |                  | :BEBOP:           |
-| Mood Indigo                            | B | Duke Ellington   |                  |                   |
-| Moon River                             | B |                  |                  | :MOVIE:           |
-| My Foolish Heart                       | B |                  |                  | :STANDARD:BALLAD: |
-| My One and Only Love                   | B |                  |                  |                   |
-| My Romance                             | B |                  |                  |                   |
-| Nutville                               | B | Horace Silver    |                  | :HARDBOP:         |
-| On Green Dolphin Street                | B |                  |                  |                   |
-| Poinciana                              | B |                  |                  |                   |
-| Pure Imagination                       | B |                  |                  | :BALLAD:MOVIE:    |
-| Round Midnight                         | B | Thelonius Monk   |                  | :BALLAD:          |
-| Satin Doll                             | B |                  |                  |                   |
-| Softly, as in a Morning Sunrise        | B |                  |                  | :STANDARD:        |
-| Somewhere Over The Rainbow             | B |                  |                  | :MOVIE:           |
-| Sweet Georgia Brown                    | B |                  |                  |                   |
-| There is No Greater Love               | B |                  |                  |                   |
-| The Surrey with the Fringe on Top      | B |                  |                  |                   |
-| They Can't Take That Away From Me      | B |                  |                  | :STANDARD:        |
-| Waltz for Debby                        | B |                  |                  |                   |
-| What's New?                            | B |                  |                  |                   |
-| When Sunny Gets Blue                   | B |                  |                  |                   |
-| Yesterdays                             | B |                  |                  |                   |
-| You'd Be So Nice to Come Home To       | B |                  |                  |                   |
-| You Don't Know What Love Is            | B |                  |                  |                   |
-| You Took Advantage of Me               | B |                  |                  |                   |
-| Agua de Beber                          | C | Tom Jobim        |                  | :BOSSA:           |
-| Ain't Misbehavin'                      | C |                  |                  | :STANDARD:        |
-| Black Coffee                           | C |                  |                  | :STANDARD:        |
-| Blue in Green                          | C | Kenny Dorham     |                  | :BOSSA:           |
-| But Not For Me                         | C |                  |                  |                   |
-| Chelsea Bridge                         | C |                  |                  |                   |
-| Easy Living                            | C |                  |                  | :STANDARD:BALLAD: |
-| Falling Grace                          | C | Steve Swallow    |                  | :POSTBOP:         |
-| I Hear a Rhapsody                      | C |                  |                  |                   |
-| I Loves You, Porgy                     | C |                  |                  |                   |
-| Lonely Woman                           | C |                  |                  | :BALLAD:          |
-| Lush Life                              | C |                  |                  | :BALLAD:STANDARD: |
-| Nobody Else But Me                     | C |                  |                  |                   |
-| O Pato                                 | C | Tom Jobim        |                  | :BOSSA:           |
-| Ruby My Dear                           | C | Thelonius Monk   |                  | :BALLAD:          |
-| So Danco Samba                         | C |                  |                  | :BOSSA:           |
-| Someone to Watch Over Me               | C |                  |                  | :STANDARD:BALLAD: |
-| Tenderly                               | C |                  |                  |                   |
-| The Way You Look Tonight               | C |                  |                  |                   |
-| Whisper Not                            | C |                  |                  |                   |
+| Tune                                   | F | Composer            | Changes                                    | Tags              |
+|----------------------------------------+---+---------------------+--------------------------------------------+-------------------|
+| Alice in Wonderland                    | A |                     |                                            | :DISNEY:MOVIE:    |
+| All of Me                              | A |                     |                                            | :STANDARD:        |
+| All The Things You Are                 | A |                     |                                            | :STANDARD:        |
+| Alone Together                         | A |                     |                                            | :BALLAD:STANDARD: |
+| A Night in Tunisia                     | A | Dizzy Gillespie     |                                            | :BEBOP:LATIN:     |
+| Anthropology                           | A | Charlie Parker      | I Got Rhythm                               | :RHYTHM:          |
+| Autumn Leaves                          | A |                     |                                            | :STANDARD:BALLAD: |
+| Bags' Groove                           | A |                     | 12 bar blues                               | :BLUES:BEBOP:     |
+| Beautiful Love                         | A |                     |                                            | :BALLAD:STANDARD: |
+| Billie's Bounce                        | A | Charlie Parker      | 12 bar blues                               | :BLUES:BEBOP:     |
+| Blue Bossa                             | A | Kenny Dorham        |                                            | :BOSSA:           |
+| Blue Monk                              | A | Thelonius Monk      | 12 bar blues                               | :BLUES:BEBOP:     |
+| Body and Soul                          | A |                     |                                            | :STANDARD:        |
+| Boplicity                              | A |                     |                                            | :BEBOP:           |
+| Cantaloupe Island                      | A | Herbie Hancock      |                                            | :HARDBOP:         |
+| Caravan                                | A |                     |                                            | :STANDARD:LATIN:  |
+| Corcovado                              | A | Tom Jobim           |                                            | :BOSSA:           |
+| Days of Wine and Roses                 | A |                     |                                            | :STANDARD:MOVIE:  |
+| Donna Lee                              | A | Miles Davis         | Indiana                                    | :BEBOP:           |
+| Doxy                                   | A | Sonny Rollins       |                                            | :BEBOP:           |
+| Embraceable You                        | A |                     |                                            | :STANDARD:BALLAD: |
+| Georgia on My Mind                     | A |                     |                                            | :BALLAD:STANDARD: |
+| Giant Steps                            | A | John Coltrane       |                                            | :BEBOP:           |
+| Girl from Ipanema                      | A | Tom Jobim           |                                            | :BOSSA:           |
+| Have You Met Mrs. Jones?               | A |                     |                                            | :STANDARD:        |
+| Have Yourself a Merry Little Christmas | A |                     |                                            | :CHRISTMAS:       |
+| Honeysuckle Rose                       | A |                     |                                            | :STANDARD:        |
+| If I Only Had A Brain                  | A |                     |                                            | :MOVIE:           |
+| I Got Rhythm                           | A |                     |                                            | :STANDARD:        |
+| I'll Remember April                    | A |                     |                                            | :STANDARD:        |
+| In a Mellow Tone                       | A | Duke Ellington      |                                            | :STANDARD:        |
+| In a Sentimental Mood                  | A | Duke Ellington      |                                            | :STANDARD:BALLAD: |
+| I Remember You                         | A |                     |                                            | :BALLAD:          |
+| Lester Leaps In                        | A |                     | I Got Rhythm                               | :BEBOP:           |
+| Like Someone in Love                   | A |                     |                                            | :STANDARD:        |
+| Maiden Voyage                          | A | Herbie Hancock      |                                            | :MODAL:           |
+| Mercy, Mercy, Mercy                    | A |                     |                                            | :HARDBOP:         |
+| Misty                                  | A |                     |                                            | :STANDARD:        |
+| Mr P.C.                                | A | John Coltrane       | 12 bar blues (minor)                       | :BEBOP:BLUES:     |
+| My Favorite Things                     | A |                     |                                            | :MOVIE:           |
+| My Funny Valentine                     | A |                     |                                            | :STANDARD:BALLAD: |
+| Naima                                  | A |                     |                                            | :MODAL:           |
+| Nardis                                 | A |                     |                                            |                   |
+| Night and Day                          | A |                     |                                            | :STANDARD:        |
+| Oleo                                   | A | Sonny Rollins       | I Got Rhythm                               | :RHYTHM:          |
+| One Note Samba                         | A | Tom Jobim           |                                            | :BOSSA:           |
+| Rainbow Connection                     | A |                     |                                            | :BALLAD:MOVIE:    |
+| Rhythm-A-Ning                          | A | Thelonius Monk      | I Got Rhythm                               | :RHYTHM:BEBOP:    |
+| Salt Peanuts                           | A |                     | I Got Rhythm                               | :BEBOP:           |
+| Scrapple from the Apple                | A | Charlie Parker      | Honeysuckle Rose                           | :BEBOP:           |
+| Skylark                                | A | Hoagy Carmichael    |                                            | :BALLAD:STANDARD: |
+| Solar                                  | A | Miles Davis         | 12 bar blues (minor, variant)              | :BEBOP:           |
+| Someday My Prince Will Come            | A |                     |                                            | :DISNEY:MOVIE:    |
+| Song for my Father                     | A | Horace Silver       |                                            | :HARDBOP:         |
+| Sonnymoon for Two                      | A | Sonny Rollins       | 12 bar blues                               | :BLUES:           |
+| So What                                | A | Miles Davis         |                                            | :MODAL:           |
+| Stella by Starlight                    | A |                     |                                            | :STANDARD:        |
+| St. Thomas                             | A | Sonny Rollins       |                                            |                   |
+| Take the "A" Train                     | A |                     |                                            | :STANDARD:        |
+| Take the Coltrane                      | A |                     | 12 bar blues                               |                   |
+| Tea for Two                            | A |                     |                                            | :STANDARD:        |
+| Tennessee Waltz                        | A |                     |                                            | :COUNTRY:         |
+| Tune Up                                | A | Miles Davis         |                                            | :BEBOP:           |
+| Valse Hot                              | A |                     |                                            |                   |
+| Watermelon Man                         | A | Herbie Hancock      |                                            | :HARDBOP:         |
+| Wave                                   | A | Tom Jobim           |                                            | :BOSSA:           |
+| Well You Needn't                       | A | Thelonius Monk      |                                            | :BEBOP:           |
+| We See                                 | A | Thelonius Monk      |                                            | :BEBOP:           |
+| What is This Thing Called Love?        | A |                     |                                            | :STANDARD:        |
+| When You Wish Upon a Star              | A |                     |                                            | :DISNEY:MOVIE:    |
+| Alfie                                  | B |                     |                                            | :BALLAD:MOVIE:    |
+| All Blues                              | B | Miles Davis         | Sorta 12-bar-blues (waltz, variant)        | :MODAL:BLUES:     |
+| Angel Eyes                             | B |                     |                                            | :BALLAD:STANDARD: |
+| A Nightingale Sang in Berkeley Square  | B |                     |                                            | :STANDARD:BALLAD: |
+| Autumn in New York                     | B |                     |                                            | :BALLAD:STANDARD: |
+| Bluesette                              | B | Toots Thielemans    | Sorta 12-bar-blues (waltz, Parker changes) |                   |
+| Blue Skies                             | B |                     |                                            | :STANDARD:        |
+| Brazil                                 | B |                     |                                            | :BOSSA:           |
+| Cherokee                               | B |                     |                                            |                   |
+| Countdown                              | B |                     | Tune Up (w/Coltrane changes)               | :BEBOP:           |
+| Darn that Dream                        | B |                     |                                            | :STANDARD:        |
+| Desafinado                             | B | Tom Jobim           |                                            | :BOSSA:           |
+| Dindi                                  | B |                     |                                            | :BOSSA:           |
+| Dolphin Dance                          | B | Herbie Hancock      |                                            | :HARDBOP:         |
+| Doodlin'                               | B | Horace Silver       | 12 bar blues (variant)                     | :BLUES:HARDBOP:   |
+| Emily                                  | B | Johnny Mandel       |                                            | :BALLAD:MOVIE:    |
+| Fall                                   | B | Wayne Shorter       |                                            | :POSTBOP:         |
+| Footprints                             | B | Wayne Shorter       | 12 bar blues (waltz, variant)              | :POSTBOP:         |
+| Four                                   | B | Miles Davis         |                                            | :BEBOP:           |
+| Gee, Baby, Ain't I Good To You         | B |                     |                                            | :STANDARD:        |
+| God Bless The Child                    | B |                     |                                            | :STANDARD:BALLAD: |
+| Goodbye Pork Pie Hat                   | B |                     | 12 bar blues (variant)                     |                   |
+| Here's That Rainy Day                  | B |                     |                                            | :STANDARD:        |
+| How Deep Is The Ocean?                 | B |                     |                                            |                   |
+| How High The Moon?                     | B |                     |                                            |                   |
+| I Ain't Got Nobody                     | B |                     |                                            |                   |
+| Indiana                                | B |                     |                                            | :STANDARD:        |
+| In Walked Bud                          | B | Thelonius Monk      | Blue Skies                                 | :BEBOP:           |
+| In Your Own Sweet Way                  | B | Dave Brubeck        |                                            |                   |
+| Israel                                 | B |                     | 12 bar blues (minor)                       | :BLUES:           |
+| It Could Happen To You                 | B |                     |                                            |                   |
+| It Don't Mean a Thing                  | B |                     |                                            |                   |
+| I've Got a Crush On You                | B |                     |                                            |                   |
+| I've Got the World on a String         | B |                     |                                            |                   |
+| Joy Spring                             | B | Clifford Brown      |                                            |                   |
+| Little Sunflower                       | B |                     |                                            | :MODAL:           |
+| Lover Man                              | B |                     |                                            | :BALLAD:STANDARD: |
+| Manha de Carnaval                      | B |                     |                                            | :BOSSA:           |
+| Moment's Notice                        | B | John Coltrane       |                                            | :BEBOP:           |
+| Mood Indigo                            | B | Duke Ellington      |                                            |                   |
+| Moon River                             | B |                     |                                            | :MOVIE:           |
+| My Foolish Heart                       | B |                     |                                            | :STANDARD:BALLAD: |
+| My One and Only Love                   | B |                     |                                            |                   |
+| My Romance                             | B |                     |                                            |                   |
+| Nutville                               | B | Horace Silver       |                                            | :HARDBOP:         |
+| On Green Dolphin Street                | B | Bronislaw Kaper     |                                            |                   |
+| Poinciana                              | B | Nat Simon           |                                            |                   |
+| Pure Imagination                       | B |                     |                                            | :BALLAD:MOVIE:    |
+| Round Midnight                         | B | Thelonius Monk      |                                            | :BALLAD:          |
+| Satin Doll                             | B | Ellington/Strayhorn |                                            |                   |
+| Softly, as in a Morning Sunrise        | B |                     |                                            | :STANDARD:        |
+| Somewhere Over The Rainbow             | B | Harold Arlen        |                                            | :MOVIE:           |
+| Sweet Georgia Brown                    | B |                     |                                            |                   |
+| There is No Greater Love               | B |                     |                                            |                   |
+| The Surrey with the Fringe on Top      | B |                     |                                            |                   |
+| They Can't Take That Away From Me      | B | Gershwin            |                                            | :STANDARD:        |
+| Waltz for Debby                        | B | Bill Evans          |                                            |                   |
+| What's New?                            | B |                     |                                            |                   |
+| When Sunny Gets Blue                   | B |                     |                                            |                   |
+| Yesterdays                             | B |                     |                                            |                   |
+| You'd Be So Nice to Come Home To       | B |                     |                                            |                   |
+| You Don't Know What Love Is            | B |                     |                                            |                   |
+| You Took Advantage of Me               | B |                     |                                            |                   |
+| Agua de Beber                          | C | Tom Jobim           |                                            | :BOSSA:           |
+| Ain't Misbehavin'                      | C |                     |                                            | :STANDARD:        |
+| Black Coffee                           | C |                     |                                            | :STANDARD:        |
+| Blue in Green                          | C | Kenny Dorham        |                                            | :BOSSA:           |
+| But Not For Me                         | C | Gershwin            |                                            |                   |
+| Chelsea Bridge                         | C | Billy Strayhorn     |                                            |                   |
+| Easy Living                            | C |                     |                                            | :STANDARD:BALLAD: |
+| Falling Grace                          | C | Steve Swallow       |                                            | :POSTBOP:         |
+| I Hear a Rhapsody                      | C |                     |                                            |                   |
+| I Loves You, Porgy                     | C | Gershwin            |                                            |                   |
+| Lonely Woman                           | C | Horace Silver       |                                            | :BALLAD:          |
+| Lush Life                              | C | Billy Strayhorn     |                                            | :BALLAD:STANDARD: |
+| Nobody Else But Me                     | C |                     |                                            |                   |
+| O Pato                                 | C | Tom Jobim           |                                            | :BOSSA:           |
+| Ruby My Dear                           | C | Thelonius Monk      |                                            | :BALLAD:          |
+| So Danco Samba                         | C |                     |                                            | :BOSSA:           |
+| Someone to Watch Over Me               | C |                     |                                            | :STANDARD:BALLAD: |
+| Tenderly                               | C |                     |                                            | :STANDARD:BALLAD: |
+| The Way You Look Tonight               | C |                     |                                            | :STANDARD:BALLAD: |
+| Whisper Not                            | C | Benny Golson        |                                            | :STANDARD:        |
 #+END:
 
 * [#A] Alice in Wonderland :DISNEY:MOVIE:
-* [#A] All of You :STANDARD:
+* [#A] All of Me :STANDARD:
 * [#A] All The Things You Are :STANDARD:
 * [#A] Alone Together :BALLAD:STANDARD:
 * [#A] A Night in Tunisia :BEBOP:LATIN:
@@ -163,14 +170,18 @@
 * [#A] Anthropology :RHYTHM:
 :PROPERTIES:
 :Composer: Charlie Parker
-:Changes: [[*I Got Rhythm][I Got Rhythm]]
+:CHANGES:  I Got Rhythm
 :END:
 * [#A] Autumn Leaves :STANDARD:BALLAD:
 * [#A] Bags' Groove :BLUES:BEBOP:
+:PROPERTIES:
+:CHANGES:  12 bar blues
+:END:
 * [#A] Beautiful Love :BALLAD:STANDARD:
 * [#A] Billie's Bounce :BLUES:BEBOP:
 :PROPERTIES:
 :Composer: Charlie Parker
+:CHANGES:  12 bar blues
 :END:
 * [#A] Blue Bossa :BOSSA:
 :PROPERTIES:
@@ -179,6 +190,7 @@
 * [#A] Blue Monk :BLUES:BEBOP:
 :PROPERTIES:
 :Composer: Thelonius Monk
+:CHANGES:  12 bar blues
 :END:
 * [#A] Body and Soul :STANDARD:
 * [#A] Boplicity :BEBOP:
@@ -186,15 +198,16 @@
 :PROPERTIES:
 :Composer: Herbie Hancock
 :END:
-* [#A] Caravan
+* [#A] Caravan :STANDARD:LATIN:
 * [#A] Corcovado :BOSSA:
 :PROPERTIES:
 :Composer: Tom Jobim
 :END:
+* [#A] Days of Wine and Roses :STANDARD:MOVIE:
 * [#A] Donna Lee :BEBOP:
 :PROPERTIES:
 :Composer: Miles Davis
-:Changes: [[*Indiana][Indiana]]
+:CHANGES:  Indiana
 :END:
 * [#A] Doxy :BEBOP:
 :PROPERTIES:
@@ -219,18 +232,18 @@
 :Composer: Gershwin
 :END::STANDARD:
 * [#A] I'll Remember April :STANDARD:
-* [#A] In a Mellow Tone
+* [#A] In a Mellow Tone :STANDARD:
 :PROPERTIES:
 :COMPOSER: Duke Ellington
 :END:
-* [#A] In a Sentimental Mood
+* [#A] In a Sentimental Mood :STANDARD:BALLAD:
 :PROPERTIES:
 :COMPOSER: Duke Ellington
 :END:
 * [#A] I Remember You :BALLAD:
-* [#A] Lester Leaps In
+* [#A] Lester Leaps In :BEBOP:
 :PROPERTIES:
-:Changes:  [[*I Got Rhythm][I Got Rhythm]]
+:CHANGES:  I Got Rhythm
 :END:
 * [#A] Like Someone in Love :STANDARD:
 * [#A] Maiden Voyage :MODAL:
@@ -242,16 +255,17 @@
 * [#A] Mr P.C. :BEBOP:BLUES:
 :PROPERTIES:
 :COMPOSER: John Coltrane
+:CHANGES:  12 bar blues (minor)
 :END:
 * [#A] My Favorite Things :MOVIE:
-* [#A] My Funny Valentine
-* [#A] Naima
+* [#A] My Funny Valentine :STANDARD:BALLAD:
+* [#A] Naima :MODAL:
 * [#A] Nardis
-* [#A] Night and Day
+* [#A] Night and Day :STANDARD:
 * [#A] Oleo :RHYTHM:
 :PROPERTIES:
 :Composer: Sonny Rollins
-:Changes: [[*I Got Rhythm][I Got Rhythm]]
+:CHANGES:  I Got Rhythm
 :END:
 * [#A] One Note Samba :BOSSA:
 :PROPERTIES:
@@ -262,16 +276,16 @@ From "The Muppet Movie"
 * [#A] Rhythm-A-Ning :RHYTHM:BEBOP:
 :PROPERTIES:
 :Composer: Thelonius Monk
-:Changes: [[*I Got Rhythm][I Got Rhythm]]
+:CHANGES:  I Got Rhythm
 :END:
 * [#A] Salt Peanuts :BEBOP:
 :PROPERTIES:
-:Changes:  [[*I Got Rhythm][I Got Rhythm]]
+:CHANGES:  I Got Rhythm
 :END:
 * [#A] Scrapple from the Apple :BEBOP:
 :PROPERTIES:
 :Composer: Charlie Parker
-:Changes: [[*Honeysuckle Rose][Honeysuckle Rose]]
+:CHANGES:  Honeysuckle Rose
 :END:
 * [#A] Skylark :BALLAD:STANDARD:
 :PROPERTIES:
@@ -280,11 +294,17 @@ From "The Muppet Movie"
 * [#A] Solar :BEBOP:
 :PROPERTIES:
 :Composer: Miles Davis
+:CHANGES:  12 bar blues (minor, variant)
 :END:
 * [#A] Someday My Prince Will Come :DISNEY:MOVIE:
 * [#A] Song for my Father :HARDBOP:
 :PROPERTIES:
 :Composer: Horace Silver
+:END:
+* [#A] Sonnymoon for Two :BLUES:
+:PROPERTIES:
+:Composer: Sonny Rollins
+:CHANGES:  12 bar blues
 :END:
 * [#A] So What :MODAL:
 :PROPERTIES:
@@ -295,8 +315,18 @@ From "The Muppet Movie"
 :PROPERTIES:
 :Composer: Sonny Rollins
 :END:
-* [#A] Take the "A" Train
-* [#A] Tea for Two
+* [#A] Take the "A" Train :STANDARD:
+* [#A] Take the Coltrane
+:PROPERTIES:
+:CHANGES:  12 bar blues
+:END:
+* [#A] Tea for Two :STANDARD:
+* [#A] Tennessee Waltz :COUNTRY:
+* [#A] Tune Up :BEBOP:
+:PROPERTIES:
+:Composer: Miles Davis
+:END:
+* [#A] Valse Hot
 * [#A] Watermelon Man :HARDBOP:
 :PROPERTIES:
 :Composer: Herbie Hancock
@@ -304,6 +334,10 @@ From "The Muppet Movie"
 * [#A] Wave :BOSSA:
 :PROPERTIES:
 :Composer: Tom Jobim
+:END:
+* [#A] Well You Needn't :BEBOP:
+:PROPERTIES:
+:Composer: Thelonius Monk
 :END:
 * [#A] We See :BEBOP:
 :PROPERTIES:
@@ -318,6 +352,7 @@ From "The Muppet Movie"
 * [#B] All Blues :MODAL:BLUES:
 :PROPERTIES:
 :Composer: Miles Davis
+:CHANGES:  Sorta 12-bar-blues (waltz, variant)
 :END:
 * [#B] Angel Eyes :BALLAD:STANDARD:
 * [#B] A Nightingale Sang in Berkeley Square :STANDARD:BALLAD:
@@ -325,11 +360,15 @@ From "The Muppet Movie"
 * [#B] Bluesette
 :PROPERTIES:
 :Composer: Toots Thielemans
+:CHANGES:  Sorta 12-bar-blues (waltz, Parker changes)
 :END:
 * [#B] Blue Skies :STANDARD:
-* [#B] Brazil
+* [#B] Brazil :BOSSA:
 * [#B] Cherokee
 * [#B] Countdown :BEBOP:
+:PROPERTIES:
+:CHANGES:  Tune Up (w/Coltrane changes)
+:END:
 * [#B] Darn that Dream :STANDARD:
 * [#B] Desafinado :BOSSA:
 :PROPERTIES:
@@ -343,6 +382,7 @@ From "The Muppet Movie"
 * [#B] Doodlin' :BLUES:HARDBOP:
 :PROPERTIES:
 :Composer: Horace Silver
+:CHANGES:  12 bar blues (variant)
 :END:
 Slightly modified
 * [#B] Emily :BALLAD:MOVIE:
@@ -356,6 +396,7 @@ Slightly modified
 * [#B] Footprints :POSTBOP:
 :PROPERTIES:
 :COMPOSER: Wayne Shorter
+:CHANGES:  12 bar blues (waltz, variant)
 :END:
 * [#B] Four :BEBOP:
 :PROPERTIES:
@@ -364,6 +405,9 @@ Slightly modified
 * [#B] Gee, Baby, Ain't I Good To You :STANDARD:
 * [#B] God Bless The Child :STANDARD:BALLAD:
 * [#B] Goodbye Pork Pie Hat
+:PROPERTIES:
+:CHANGES:  12 bar blues (variant)
+:END:
 * [#B] Here's That Rainy Day :STANDARD:
 * [#B] How Deep Is The Ocean?
 * [#B] How High The Moon?
@@ -371,7 +415,7 @@ Slightly modified
 * [#B] Indiana :STANDARD:
 * [#B] In Walked Bud :BEBOP:
 :PROPERTIES:
-:Changes: [[*Blue Skies][Blue Skies]]
+:CHANGES:  Blue Skies
 :COMPOSER: Thelonius Monk
 :END:
 * [#B] In Your Own Sweet Way
@@ -379,6 +423,9 @@ Slightly modified
 :COMPOSER: Dave Brubeck
 :END:
 * [#B] Israel :BLUES:
+:PROPERTIES:
+:CHANGES:  12 bar blues (minor)
+:END:
 * [#B] It Could Happen To You
 * [#B] It Don't Mean a Thing
 * [#B] I've Got a Crush On You
@@ -408,7 +455,13 @@ aka "A Day in the Life of a Fool" or "(Theme from) Black Orpheus"
 :Composer: Horace Silver
 :END:
 * [#B] On Green Dolphin Street
+:PROPERTIES:
+:COMPOSER: Bronislaw Kaper
+:END:
 * [#B] Poinciana
+:PROPERTIES:
+:COMPOSER: Nat Simon
+:END:
 * [#B] Pure Imagination :BALLAD:MOVIE:
 From "Willy Wonka & The Chocolate Factory"
 * [#B] Round Midnight :BALLAD:
@@ -416,16 +469,28 @@ From "Willy Wonka & The Chocolate Factory"
 :Composer: Thelonius Monk
 :END:
 * [#B] Satin Doll
+:PROPERTIES:
+:COMPOSER: Ellington/Strayhorn
+:END:
 * [#B] Softly, as in a Morning Sunrise :STANDARD:
 * [#B] Somewhere Over The Rainbow :MOVIE:
+:PROPERTIES:
+:COMPOSER: Harold Arlen
+:END:
 * [#B] Sweet Georgia Brown
 * [#B] There is No Greater Love
 * [#B] The Surrey with the Fringe on Top
 * [#B] They Can't Take That Away From Me :STANDARD:
 :PROPERTIES:
+:COMPOSER: Gershwin
+:END:
+:PROPERTIES:
 :Composer: Gershwin
 :END::STANDARD:
 * [#B] Waltz for Debby
+:PROPERTIES:
+:COMPOSER: Bill Evans
+:END:
 * [#B] What's New?
 * [#B] When Sunny Gets Blue
 * [#B] Yesterdays
@@ -443,7 +508,13 @@ From "Willy Wonka & The Chocolate Factory"
 :Composer: Kenny Dorham
 :END:
 * [#C] But Not For Me
+:PROPERTIES:
+:COMPOSER: Gershwin
+:END:
 * [#C] Chelsea Bridge
+:PROPERTIES:
+:COMPOSER: Billy Strayhorn
+:END:
 * [#C] Easy Living :STANDARD:BALLAD:
 * [#C] Falling Grace :POSTBOP:
 :PROPERTIES:
@@ -451,11 +522,20 @@ From "Willy Wonka & The Chocolate Factory"
 :END:
 * [#C] I Hear a Rhapsody
 * [#C] I Loves You, Porgy
+:PROPERTIES:
+:COMPOSER: Gershwin
+:END:
 * [#C] Lonely Woman :BALLAD:
+:PROPERTIES:
+:COMPOSER: Horace Silver
+:END:
 :PROPERTIES:
 :Composer: Horace Silver
 :END::STANDARD:
 * [#C] Lush Life :BALLAD:STANDARD:
+:PROPERTIES:
+:COMPOSER: Billy Strayhorn
+:END:
 * [#C] Nobody Else But Me
 * [#C] O Pato :BOSSA:
 :PROPERTIES:
@@ -467,6 +547,9 @@ From "Willy Wonka & The Chocolate Factory"
 :END:
 * [#C] So Danco Samba :BOSSA:
 * [#C] Someone to Watch Over Me :STANDARD:BALLAD:
-* [#C] Tenderly
-* [#C] The Way You Look Tonight
-* [#C] Whisper Not
+* [#C] Tenderly :STANDARD:BALLAD:
+* [#C] The Way You Look Tonight :STANDARD:BALLAD:
+* [#C] Whisper Not :STANDARD:
+:PROPERTIES:
+:COMPOSER: Benny Golson
+:END:
