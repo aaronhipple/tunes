@@ -1,478 +1,1801 @@
-# Just a list of tunes
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
-## Country/Bluegrass-ish
+<colgroup>
+<col  class="org-left" />
 
-- Crazy
-    - [Patsy Cline](https://www.youtube.com/watch?v=2OVtpnpCOKM)
-- Deep River Blues
-    - [Doc Watson](https://www.youtube.com/watch?v=6VAbrnjdtYw)
-- Tennessee Waltz
-    - [Norah Jones](https://www.youtube.com/watch?v=IquT_zm2O7M)
+<col  class="org-left" />
 
-## Rock/Pop/Fusion/Funk/R&B-ish
+<col  class="org-left" />
 
-- Actual Proof
-    - [Herbie Hancock](https://www.youtube.com/watch?v=m0c38Wtdvz0)
-    - [Ari Hoenig](https://www.youtube.com/watch?v=FSbXV4vBfuA)
-- Ain't No Sunshine
-    - [Bill Withers](https://www.youtube.com/watch?v=tIdIqbv7SPo)
-- Africa
-    - [Toto](https://www.youtube.com/watch?v=FTQbiNvZqaY)
-- Chameleon
-    - [Herbie Hancock](https://www.youtube.com/watch?v=UbkqE4fpvdI)
-- Don't You Worry Bout A Thing
-    - [Stevie Wonder](https://www.youtube.com/watch?v=zywDiFdxopU)
-- Everybody Wants To Rule The World
-    - [Tears For Fears](https://www.youtube.com/watch?v=ST86JM1RPl0)
-    - [The Bad Plus](https://www.youtube.com/watch?v=q9hOSZGMXlI)
-- Heart of Glass
-    - [Blondie](https://www.youtube.com/watch?v=WGU_4-5RaxU)
-    - [The Bad Plus](https://www.youtube.com/watch?v=MjyYX9gYOis)
-- I Can't Go For That
-    - [Hall & Oates](https://www.youtube.com/watch?v=ccenFp_3kq8)
-    - [Nicki Bluhm](https://www.youtube.com/watch?v=WJiCUdLBxuI)
-- I Wish
-    - [Stevie Wonder](https://www.youtube.com/watch?v=hYKYka-PNt0)
-- Just The Two Of Us
-    - [Bill Withers](https://www.youtube.com/watch?v=jEy6MGu3bIA)
+<col  class="org-left" />
 
-## Jazz-ish
+<col  class="org-left" />
+</colgroup>
+<thead>
+<tr>
+<th scope="col" class="org-left">Tune</th>
+<th scope="col" class="org-left">F</th>
+<th scope="col" class="org-left">Composer</th>
+<th scope="col" class="org-left">Changes</th>
+<th scope="col" class="org-left">Tags</th>
+</tr>
+</thead>
 
-- 'Round Midnight
-    - [Amy Winehouse](https://www.youtube.com/watch?v=1IuALymbySw)
-    - [Miles Davis](https://www.youtube.com/watch?v=GIgLt7LAZF0)
-- (In My) Solitude
-    - [Billie Holiday](https://www.youtube.com/watch?v=8eLl84iMsrQ)
-- A Night in Tunisia
-    - [Ella Fitgerald](https://www.youtube.com/watch?v=6xQxN5Sxndc)
-    - [Petros Klampanis](https://www.youtube.com/watch?v=c0HM5QtJwUE) *(in 5/4, kinda cool)*
-- A Nightingale Sang in Berkeley Square
-    - [Manhattan Transfer](https://www.youtube.com/watch?v=NNHDKxjZBiQ)
-- A Sleepin' Bee
-    - [Barbara Streisand](https://www.youtube.com/watch?v=gJkb4xf5Zog)
-    - [Bill Evans](https://www.youtube.com/watch?v=oaF85S5jNBI)
-- Afro Blue
-    - [Robert Glasper ft. Erykah Badu](https://www.youtube.com/watch?v=3-0JZlrk4xA)
-    - [John Coltrane](https://www.youtube.com/watch?v=HuOfm6nSW4A)
-- Agua de Beber
-    - [Tom Jobim](https://www.youtube.com/watch?v=zkCkIGqGyAI)
-- Ain't Misbehavin'
-    - [Leon Redbone](https://www.youtube.com/watch?v=F6d1-k2p1Ck)
-- Alfie
-    - [Pat Metheny](https://www.youtube.com/watch?v=PuRHSt-6fHk)
-- Alice in Wonderland
-    - [Bill Evans](https://www.youtube.com/watch?v=CuzZ8mV9Zh8)
-- All Blues
-    - [Miles Davis](https://www.youtube.com/watch?v=JIfdYs8WErM)
-    - [Ari Hoenig/Jean-Michel Pilc](https://www.youtube.com/watch?v=QsZU9jNib08) *(in 11/8)*
-- All of Me
-    - [Willie Nelson](https://www.youtube.com/watch?v=X1ZSZUSrXc8)
-- All of You
-    - [All of You](https://www.youtube.com/watch?v=QMyM6_Ygq60)
-- All the Things You Are
-    - [Frank Sinatra](https://www.youtube.com/watch?v=OjZo4X9zmLA)
-    - [Ron Carter & Jim Hall](https://www.youtube.com/watch?v=_aeV4i-1aqQ)
-    - [Ari Hoenig](https://www.youtube.com/watch?v=Nmn2pISPlT4) *(in like... 10?)*
-- Alone Together
-    - [Ella Fitzgerald](https://www.youtube.com/watch?v=U84GERCaJic)
-    - [Chet Baker](https://www.youtube.com/watch?v=zdDhinO58ss)
-- Amazing Grace
-    - [John Raymond & Real Feels](https://www.youtube.com/watch?v=ojr8__Vy9LI)
-- Angel Eyes
-    - [Sting](https://www.youtube.com/watch?v=QS1MgqJ7B3Y)
-    - [Jim Hall](https://www.youtube.com/watch?v=DYaxhwqQV5A)
-- April in Paris
-    - [Thelonious Monk](https://www.youtube.com/watch?v=XmkhpbJtItI)
-- Autumn in New York
-    - [Kenny Dorham](https://www.youtube.com/watch?v=5f7aF8npx9M)
-- Autumn Leaves
-    - [Nat King Cole](https://www.youtube.com/watch?v=ZEMCeymW1Ow)
-    - [Bill Evans](https://www.youtube.com/watch?v=r-Z8KuwI7Gc)
-- Bags' Groove
-    - [J.J. Johnson](https://www.youtube.com/watch?v=VwvH-YyWeEo)
-- Beautiful Love
-    - [Bill Evans](https://www.youtube.com/watch?v=0vXB2WKky6M)
-- Bemsha Swing
-    - [Thelonious Monk](https://www.youtube.com/watch?v=NBzh-8SKB2U)
-- Besame Mucho
-    - [The Beatles](https://www.youtube.com/watch?v=dg48JepkiRo)
-    - [Wes Montgomery](https://www.youtube.com/watch?v=4HaM97bKobQ)
-- Billie's Bounce
-    - [Ari Hoenig](https://www.youtube.com/watch?v=Rr-d3tO-sXM) *(really good)*
-    - [Ella Fitgerald](https://www.youtube.com/watch?v=cLep2fmY6sw)
-- Birdland
-    - [Weather Report](https://www.youtube.com/watch?v=Ae0nwSv6cTU)
-    - [Manhattan Transfer](https://www.youtube.com/watch?v=cZHvsaVTrzQ)
-- Black Coffee
-    - [Sarah Vaughan](https://www.youtube.com/watch?v=CRyN9wQ1taY)
-- Blue Bossa *(lyrics exist for this, can't find a good example just yet)*
-    - [Joe Pass & J.J. Johnson](https://www.youtube.com/watch?v=aZm3UDxUiYU)
-- Blue in Green
-    - [Bill Evans](https://www.youtube.com/watch?v=mW_7gRH7ASE)
-- Blue Monk
-    - [Bill Evans](https://www.youtube.com/watch?v=xxV8RwIUC-g)
-- Blue Moon
-    - [Ella Fitzgerald](https://www.youtube.com/watch?v=dqwSde_eEv4)
-- Blue Rondo à la Turk
-    - [Dave Brubeck](https://www.youtube.com/watch?v=vKNZqM0d-xo) *(9/8 with a 4/4 blues section in the middle)*
-- Blue Skies
-- Blue Train
-    - [John Coltrane](https://www.youtube.com/watch?v=XpZHUVjQydI)
-- Blues for Alice
-    - [Rahsaan Roland Kirk](https://www.youtube.com/watch?v=d2yQAfOqTf4)
-- Bluesette
-    - [Lenny Breau](https://www.youtube.com/watch?v=C68PKBZebx8)
-    - [Toots Thielemans](https://www.youtube.com/watch?v=yKnG_9q4crA)
-- Body and Soul
-    - [Esperanza Spalding](https://www.youtube.com/watch?v=2Pyz76KlHqk)
-    - [Dexter Gordon](https://www.youtube.com/watch?v=pAHsHGJUm-8) *(cool reharmonization)*
-- Boplicity
-    - [Ari Hoenig + Gilad Hekselman](https://www.youtube.com/watch?v=x3xQM_iSQjA)
-- Brazil
-    - [João Gilberto](https://www.youtube.com/watch?v=vJCzA2FP5to)
-    - [Soundtrack from "Brazil"](https://www.youtube.com/watch?v=9HtHEgINHO0) *(also an awesome movie)*
-- But Not For Me
-    - [Ahmad Jamal](https://www.youtube.com/watch?v=d7Sktqhz6GI)
-- Bye Bye Blackbird
-- Cantaloupe Island
-    - [Nat Adderley](https://www.youtube.com/watch?v=_6OKJn4_sho)
-- Caravan
-    - [Ella Fitgerald](https://www.youtube.com/watch?v=5O_ICpYMUds)
-    - [Dave Brubeck](https://www.youtube.com/watch?v=6ed55ohqdxw)
-- Cheek to Cheek
-- Chega de Saudade
-    - [João Gilberto](https://www.youtube.com/watch?v=yUuJrpP0Mak)
-- Chelsea Bridge
-    - [Billy Strayhorn](https://www.youtube.com/watch?v=7-jQ9lFiV7U)
-    - [Jim Hall](https://www.youtube.com/watch?v=3jk1pJCg8hs)
-- Cherokee
-    - [Clifford Brown](https://www.youtube.com/watch?v=M283JFxesic)
-    - [Europe](https://www.youtube.com/watch?v=lCbUZqN8JZ0) *(alright, maybe not the same... but still pretty awesome)*
-- Come Rain or Come Shine
-    - [Ray Charles](https://www.youtube.com/watch?v=Pxs3jGy9k9w)
-- Corcovado
-    - [Gal Costa](https://www.youtube.com/watch?v=ReE4jDvJVLw)
-- Consolação
-    - [Baden Powell](https://www.youtube.com/watch?v=wEtG2JwvcIE)
-    - [Monica Salmaso](https://www.youtube.com/watch?v=-L6RIvwEcWs)
-- Cry Me A River
-    - [Ella Fitgerald](https://www.youtube.com/watch?v=2Gn9A-kdsRo)
-- Danny Boy
-    - [Bill Evans](https://www.youtube.com/watch?v=X5Sg0WGy9YA)
-- Darn That Dream
-    - [Chet Baker](https://www.youtube.com/watch?v=G3iwX6vpZx0)
-- Days of Wine and Roses
-    - [Andy Williams](https://www.youtube.com/watch?v=QARzdOL3-0w)
-    - [Bill Frisell](https://www.youtube.com/watch?v=Ae2KIktr3p4)
-- Desafinado
-    - [João Gilberto](https://www.youtube.com/watch?v=g6w3a2v_50U)
-- Detour Ahead
-    - [Ella Fitgerald](https://www.youtube.com/watch?v=Frxssz-hk0w)
-    - [Bill Evans](https://www.youtube.com/watch?v=YigeXvrJilk)
-- Dindi
-    - [Cyrille Aimée & Diego Figueiredo](https://www.youtube.com/watch?v=uFMag06xlKU)
-- Dolphin Dance
-    - [Chet Baker](https://www.youtube.com/watch?v=J_46WSRWUmA)
-- Don't Get Around Much Anymore
-    - [John Pizzarelli](https://www.youtube.com/watch?v=sZN1XQCFaeM)
-- Donna Lee
-    - [Bireli Lagrene](https://www.youtube.com/watch?v=zpu8bbaA4wo)
-- Doodlin'
-    - [Sarah Vaughan](https://www.youtube.com/watch?v=_L11Zoab-gQ)
-    - [Horace Silver](https://www.youtube.com/watch?v=tu4o65SwUIw)
-- Doxy
-    - [Miles Davis](https://www.youtube.com/watch?v=XpueyrkcMyQ)
-- Easy Living
-    - [Norah Jones](https://www.youtube.com/watch?v=u3S5rXpo47w)
-- Embraceable You
-- Emily
-    - [Bill Evans](https://www.youtube.com/watch?v=wrWQndgX1QU)
-- Fall
-    - [Miles Davis](https://www.youtube.com/watch?v=ahaxXEheOiM)
-- Falling Grace
-    - [Chick Corea & Gary Burton](https://www.youtube.com/watch?v=M_0e9TClw8w)
-    - [Gary Burton](https://www.youtube.com/watch?v=wrhPRLjQ6N8)
-- Footprints
-    - [Wayne Shorter](https://www.youtube.com/watch?v=3XvJFW0DHbU)
-- Four
-- Freddie Freeloader
-- Gee, Baby, Ain't I Good To You
-    - [Ella Fitzgerald & Joe Pass](https://www.youtube.com/watch?v=DXHphfCXGgQ)
-- Georgia on My Mind
-- Giant Steps
-    - [Betty Carter](https://www.youtube.com/watch?v=P4AyCqCHCK0)
-- Girl from Ipanema
-- God Bless the Child
-    - [Billie Holiday](https://www.youtube.com/watch?v=Z_1LfT1MvzI)
-    - [Blood, Sweat & Tears](https://www.youtube.com/watch?v=04rClGsbWp4)
-- Goodbye Pork Pie Hat
-    - [Joni Mitchell](https://www.youtube.com/watch?v=7bSuCOcL39U)
-    - [Charles Mingus](https://www.youtube.com/watch?v=6sfe_8RAaJ0)
-- Haitian Fight Song
-    - [Charles Mingus](https://www.youtube.com/watch?v=L7CoJEyiSfE)
-- Have You Met Miss Jones
-    - [Chet Baker](https://www.youtube.com/watch?v=2G8UTMtY0JM)
-- Have Yourself a Merry Little Christmas
-- Heart and Soul
-- Here's That Rainy Day
-    - [Bill Evans](https://www.youtube.com/watch?v=rMa2VaV3Voo)
-- Honeysuckle Rose
-- Hot House
-- How Deep Is The Ocean?
-    - [Jim Hall](https://www.youtube.com/watch?v=Vime3JCpowA)
-- How High The Moon
-- How Insensitive
-    - [Astrud Gilberto](https://www.youtube.com/watch?v=4x2i2GITQ0Y)
-    - [William Shatner](https://www.youtube.com/watch?v=cqPOZjcvNQc)
-- I Ain't Got Nobody
-- I've Got a Crush on You
-    - [Petra Haden & Bill Frisell](https://www.youtube.com/watch?v=B3jDdA-Xvao)
-- I Got Rhythm
-    - [John Pizzarelli](https://www.youtube.com/watch?v=vVNVJGLVFCk)
-- I Hear a Rhapsody
-    - [Bill Evans & Jim Hall](https://www.youtube.com/watch?v=myUuXffyu_k)
-- I Loves You, Porgy
-    - [Petra Haden](https://www.youtube.com/watch?v=o9Qw-4gWJPI)
-- I Remember You
-    - [Glen Campbell](https://www.youtube.com/watch?v=9hky9OaPDOo)
-    - [Jim Hall](https://www.youtube.com/watch?v=VbWq_Cb6jyQ)
-- I'll Remember April
-    - [Errol Garner](https://www.youtube.com/watch?v=nMa--MNjdSw)
-- I've Got the World on a String
-    - [Ella Fitzgerald & Joe Pass](https://www.youtube.com/watch?v=VqCsa87-QCs)
-- If I Only Had a Brain
-- If You Could See Me Now
-    - [Sarah Vaughan](https://www.youtube.com/watch?v=8e_LN4qRgto)
-    - [Bill Evans](https://www.youtube.com/watch?v=0-ktJKj9NbA)
-- In a Mellow Tone
-    - [Graham Dechter](https://www.youtube.com/watch?v=K85NwAoVgxw)
-- In a Sentimental Mood
-    - [Jim Hall](https://www.youtube.com/watch?v=qOq9u7wIbQM)
-- In Walked Bud
-    - [Carmen McRae](https://www.youtube.com/watch?v=CxdEYbMuA8s)
-    - [Fred Hersch](https://www.youtube.com/watch?v=Hw58HK3GYAg)
-- In Your Own Sweet Way
-    - [Bill Evans](https://www.youtube.com/watch?v=uyGyFPnmrBU)
-- Indiana
-    - [Lee Konitz](https://www.youtube.com/watch?v=4DfZ227l98s)
-- Inútil Paisagem
-    - [Esperanza Spalding & Gretchen Parlato](https://www.youtube.com/watch?v=0NbtMCB5g7E)
-- Israel
-    - [Bill Evans](https://www.youtube.com/watch?v=WGdr93tnNMk)
-- It Could Happen To You
-    - [Chet Baker](https://www.youtube.com/watch?v=WfGcJ-0Yr84)
-- It Don't Mean a Thing (If It Ain't Got That Swing)
-- Joy Spring
-    - [Manhattan Transfer](https://www.youtube.com/watch?v=R0K2k9yDMAE)
-    - [Joe Pass](https://www.youtube.com/watch?v=-Y7Ms1dmWys)
-- Just in Time
-    - [Just in Time](https://www.youtube.com/watch?v=6vnL0QkwTB0)
-- Just You, Just Me
-    - [Thelonious Monk](https://www.youtube.com/watch?v=ZKf2XlXRCOI)
-- Killer Joe
-- Lady Bird
-    - [Dexter Gordon](https://www.youtube.com/watch?v=EtuFaEzHJpM)
-- Lester Leaps In
-- Limehouse Blues
-- Little Sunflower
-    - [Brian Blade, Sam Yahel & Peter Bernstein](https://www.youtube.com/watch?v=A4baRkWcQaE)
-- Lonely Woman (Horace Silver)
-    - [Pat Metheny](https://www.youtube.com/watch?v=WYbqFwFHAGQ)    
-    - [Horace Silver](https://www.youtube.com/watch?v=OkbwGv3QKQc)
-- Lonely Woman (Ornette Coleman)
-    - [Radka Toneff](https://www.youtube.com/watch?v=V_P3UStDjN4)
-    - [Ornette Coleman](https://www.youtube.com/watch?v=DNbD1JIH344)
-- Love for Sale
-- Lover Man (Oh, Where Can You Be?)
-    - [Blossom Dearie](https://www.youtube.com/watch?v=SavtWKnByOM)
-- Lush Life
-    - [Johnny Hartman & John Coltrane](https://www.youtube.com/watch?v=7d6_LUDa_Zw)
-- Maiden Voyage
-    - [Herbie Hancock](https://www.youtube.com/watch?v=hwmRQ0PBtXU)
-- Manhã de Carnaval
-    - [João Gilberto](https://www.youtube.com/watch?v=ZjKM6prE5Hw)
-    - [Baden Powell](https://www.youtube.com/watch?v=HgR7YJpOoPE)
-- Meet The Flintstones
-- Mercy, Mercy, Mercy
-    - [Jaco Pastorius](https://www.youtube.com/watch?v=ZLJt4P66VBQ)
-- Milestones
-- Misty
-    - [Errol Garner](https://www.youtube.com/watch?v=P_tAU3GM9XI)
-- Moanin' (Bobby Timmons)
-    - [Wes Montgomery](https://www.youtube.com/watch?v=6M4K1_6y0j0)
-- Moment's Notice
-- Mood Indigo
-    - [Ella Fitzgerald & Joe Pass](https://www.youtube.com/watch?v=GT1elvDK0kE)
-    - [Charles Mingus](https://www.youtube.com/watch?v=HLVpJqNIRHo)
-- Moon River
-    - [Petra Haden](https://www.youtube.com/watch?v=wawPLliqaf4)
-- Moonlight in Vermont
-    - [Johnny Smith](https://www.youtube.com/watch?v=gRNpc-hFkCs)
-- Mr. P.C.
-- My Blue Heaven
-    - [Mary Lou Williams](https://www.youtube.com/watch?v=CIUoUlmd6dg) *(super groovy)*
-- My Favorite Things
-- My Foolish Heart
-    - [Lenny Breau](https://www.youtube.com/watch?v=y2Uxc-ZSMuo)
-- My Funny Valentine
-    - [Chet Baker](https://www.youtube.com/watch?v=jvXywhJpOKs)
-    - [Bill Evans & Jim Hall](https://www.youtube.com/watch?v=ReOms_FY7EU)
-- My Heart Stood Still
-- My Ideal
-- My Little Suede Shoes
-    - [Art Farmer](https://www.youtube.com/watch?v=uC4tyUiDZ88)
-- My Man's Gone Now
-    - [Bill Evans](https://www.youtube.com/watch?v=R5rF1rAOY2w)
-- My One and Only Love
-- My Romance
-- Naima
-    - [Eric Dolphy](https://www.youtube.com/watch?v=oPiDFQJ15P8)
-- Nardis
-    - [Bill Evans](https://www.youtube.com/watch?v=qAeMI8w_9xc)
-- Never Let Me Go
-- Night and Day
-    - [Bill Evans](https://www.youtube.com/watch?v=N3xeX3MqJew)
-- No More Blues
-- Nobody Else But Me
-    - [Glenn Zaleski](https://www.youtube.com/watch?v=Rhquvuf8hns)
-- Now's the Time
-- Oleo
-    - [Joe Pass & Niels-Henning Ørsted Pedersen](https://www.youtube.com/watch?v=_RPkohp10EQ)
-- On Green Dolphin Street
-    - [Ella Fitzgerald & Joe Pass](https://www.youtube.com/watch?v=FpZg3VH8nJI)
-- On the Sunny Side of the Street
-- One Note Samba
-    - [Ella Fitzgerald & Joe Pass](https://www.youtube.com/watch?v=Xa5PO5BpfkY)
-- Our Delight
-- Out of Nowhere
-    - [Jimmy Raney](https://www.youtube.com/watch?v=tW2w0SSBZlk)
-- Over the Rainbow
-- People
-    - [Bill Frisell](https://youtu.be/wgrnyNAkB2Y)
-- Perdido
-- Please Don't Talk About Me When I'm Gone
-    - [Leon Redbone](https://www.youtube.com/watch?v=GNXFyrQ6smU)
-    - [Oscar Peterson](https://www.youtube.com/watch?v=Vs4jgn8pKpA)
-- Poinciana
-    - [Ahmad Jamal](https://www.youtube.com/watch?v=Ev-3kIXlEGA)
-- Polka Dots and Moonbeams
-    - [Chet Baker](https://www.youtube.com/watch?v=GD2l7VwQpbg)
-- Poor Butterfly
-- Pure Imagination
-- Red Clay
-    - [Freddie Hubbard](https://www.youtube.com/watch?v=wA1ZelIbUfI)
-- Rhythm-A-Ning
-    - [Thelonious Monk](https://www.youtube.com/watch?v=6Di_mswqhLU)
-- Ruby, My Dear
-    - [Thelonious Monk](https://www.youtube.com/watch?v=jymS_7zyy7c)
-- Salt Peanuts
-    - [The Pointer Sisters](https://www.youtube.com/watch?v=-wfmckyg9r0)
-- Satin Doll
-- Scrapple from the Apple
-    - [Jim Hall](https://www.youtube.com/watch?v=F0pLNLUtx8A)
-- Secret Love
-    - [Jim Hall](https://www.youtube.com/watch?v=AiL9yc8hHgc)
-- Send in the Clowns
-- Seven Come Eleven
-- Shine on Harvest Moon
-    - [Leon Redbone](https://www.youtube.com/watch?v=jGUW0uAwDyw)
-- Skylark
-    - [Jim Hall](https://www.youtube.com/watch?v=6vNmK0VAidQ)
-- Smile
-    - [Cyrille Aimée & Diego Figueiredo](https://www.youtube.com/watch?v=8f6TWjEA4js)
-- So What
-- Softly, as in a Morning Sunrise
-    - [Emily Remler](https://www.youtube.com/watch?v=btc3sEHINBM)
-- Solar
-    - [Bill Evans](https://www.youtube.com/watch?v=ObtLNz7NQuQ)
-- Someday my Prince Will Come
-- Someone to Watch Over Me
-    - [Blossom Dearie](https://www.youtube.com/watch?v=oruxeiA06_4)
-- Song for My Father
-- Sophisticated Lady
-    - [Blossom Dearie](https://www.youtube.com/watch?v=tROM2cAOoeQ)
-- Spain
-    - [Some Berklee Kids](https://www.youtube.com/watch?v=YyNwc2O5gRA)
-    - [Bobby McFerrin & Chick Corea](https://www.youtube.com/watch?v=_o2RS8WfcbY)
-- Speak Low
-    - [Ella Fitzgerald & Joe Pass](https://www.youtube.com/watch?v=2CwPnp2VCYM)
-    - [Hank Mobley & Lee Morgan](https://www.youtube.com/watch?v=1AvWEoL7TB0)
-- St. Thomas
-    - [Mark Murphy](https://www.youtube.com/watch?v=tquRDyatTO0)
-    - [Sonny Rollins](https://www.youtube.com/watch?v=v4DTR0I7xhA)
-- Stardust
-    - [Dave Brubeck](https://www.youtube.com/watch?v=S3JcuEA0IrM)
-- Stella by Starlight
-    - [Robert Glasper](https://www.youtube.com/watch?v=I-VY-zs2eiY)
-- Straight, No Chaser
-- Sugar
-    - [Stanley Turrentine](https://www.youtube.com/watch?v=oLaIrVB1av4)
-- Summertime
-- Sweet and Lovely
-    - [Ella Fitzgerald](https://www.youtube.com/watch?v=QY-jnv5ELGY)
-    - [Bill Evans](https://www.youtube.com/watch?v=hVCnz9OzYEA)
-- Sweet Georgia Brown
-- Sweet Lorraine
-    - [Leon Redbone](https://www.youtube.com/watch?v=FMmXKE2Gzyo)
-- Take Five
-- Take the "A" Train
-- Tea for Two
-    - [Bud Powell](https://www.youtube.com/watch?v=MnvJfB1sOug)
-- Tenderly
-    - [Chet Baker](https://www.youtube.com/watch?v=H6mfWun73vI)
-    - [Chet Atkins & Lenny Breau](https://www.youtube.com/watch?v=MAO-AtJq6sM)
-- Thanks for the Memory
-- That Old Feeling
-    - [Chet Baker](https://www.youtube.com/watch?v=Gblzp8h4tyw)
-- The Nearness of You
-    - [Bill Charlap](https://www.youtube.com/watch?v=DyAY4QA2unY)
-- The Shadow of Your Smile
-- The Surrey with the Fringe on Top
-    - [from "Oklahoma"](https://www.youtube.com/watch?v=BIG_GVE-KiE)
-    - [Ahmad Jamal](https://www.youtube.com/watch?v=wTET9-DFCbc)
-- The Way You Look Tonight
-    - [Frank Sinatra](https://www.youtube.com/watch?v=h9ZGKALMMuc)
-    - [Jim Hall](https://www.youtube.com/watch?v=qw9jPOUkiUs) *(in 3/4)*
-    - [Ari Hoenig](https://www.youtube.com/watch?v=sFShn3N8PtM) *(lots of cool weird time stuff)*
-- There Is No Greater Love
-    - [Oscar Peterson, Ray Brown & Niels-Henning Ørsted Pedersen](https://www.youtube.com/watch?v=0HEtFO9w3Ds)
-- They Can't Take That Away From Me
-    - [Jane Monheit & John Pizzarelli](https://www.youtube.com/watch?v=rU-R-ktyMFk)
-- Things Ain't What They Used To Be
-- Time After Time
-- Time Remembered
-    - [Bill Evans](https://www.youtube.com/watch?v=-SxMdU2iqPc)
-- Waltz for Debby
-    - [Tony Bennett & Bill Evans](https://www.youtube.com/watch?v=Jy6-8OwB0PI)
-- Watermelon Man
-    - [Herbie Hancock](https://www.youtube.com/watch?v=ZbHJHPTikQA)
-- Wave  
-    - [Elis Regina & Toots Thielemans](https://www.youtube.com/watch?v=yh4su_xGJ84)
-    - [Fred Hersch & Bill Frisell](https://www.youtube.com/watch?v=NfkpObyxIGQ)
-- What a Wonderful World
-- What Is This Thing Called Love?
-    - [Ella Fitzgerald](https://www.youtube.com/watch?v=qo2P7AhMbxk)
-    - [Woody Shaw](https://www.youtube.com/watch?v=V6L43x8H_hA)
-- What the World Needs Now
-    - [Bill Frisell](https://www.youtube.com/watch?v=mnxLaUsqf_s)
-- What's New?
-    - [Dexter Gordon](https://www.youtube.com/watch?v=CrvWtdBOQW8)
-- When Sunny Gets Blue
-    - [McCoy Tyner](https://www.youtube.com/watch?v=7toKjKtbeeI)
-- When You Wish Upon a Star
-- Whisper Not
-    - [Benny Golson](https://www.youtube.com/watch?v=zN-23qB8GvM)
-    - [Or Bareket & Petros Klampanis](https://www.youtube.com/watch?v=TdUhHgeQmVw)
-- Willow Weep for Me
-- Yardbird Suite
-    - [Charlie Parker](https://www.youtube.com/watch?v=HmroWIcCNUI)
-- Yesterdays
-    - [Wes Montgomery](https://www.youtube.com/watch?v=YVE3a5P76g4)
-- You and the Night and the Music
-    - [Bill Evans](https://www.youtube.com/watch?v=bxKo7kp5a6Y)
-- You Don't Know What Love Is
-    - [Warne Marsh](https://www.youtube.com/watch?v=v5dP7gp0Fqs)
-- You Took Advantage of Me
-    - [Ella Fitzgerald & Joe Pass](https://www.youtube.com/watch?v=e0qHYKnqSww)
-- You'd Be So Nice to Come Home To
-    - [Chet Baker](https://www.youtube.com/watch?v=nB1Lr6HBbu0)
+<tbody>
+<tr>
+<td class="org-left">Alice in Wonderland</td>
+<td class="org-left">A</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:DISNEY:MOVIE:</td>
+</tr>
+
+<tr>
+<td class="org-left">All of You</td>
+<td class="org-left">A</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:STANDARD:</td>
+</tr>
+
+<tr>
+<td class="org-left">All The Things You Are</td>
+<td class="org-left">A</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:STANDARD:</td>
+</tr>
+
+<tr>
+<td class="org-left">Alone Together</td>
+<td class="org-left">A</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BALLAD:STANDARD:</td>
+</tr>
+
+<tr>
+<td class="org-left">A Night in Tunisia</td>
+<td class="org-left">A</td>
+<td class="org-left">Dizzy Gillespie</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BEBOP:LATIN:</td>
+</tr>
+
+<tr>
+<td class="org-left">Anthropology</td>
+<td class="org-left">A</td>
+<td class="org-left">Charlie Parker</td>
+<td class="org-left">[I Got Rhythm](#orgf3aa819)</td>
+<td class="org-left">:RHYTHM:</td>
+</tr>
+
+<tr>
+<td class="org-left">Autumn Leaves</td>
+<td class="org-left">A</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:STANDARD:BALLAD:</td>
+</tr>
+
+<tr>
+<td class="org-left">Bags&rsquo; Groove</td>
+<td class="org-left">A</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BLUES:BEBOP:</td>
+</tr>
+
+<tr>
+<td class="org-left">Beautiful Love</td>
+<td class="org-left">A</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BALLAD:STANDARD:</td>
+</tr>
+
+<tr>
+<td class="org-left">Billie&rsquo;s Bounce</td>
+<td class="org-left">A</td>
+<td class="org-left">Charlie Parker</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BLUES:BEBOP:</td>
+</tr>
+
+<tr>
+<td class="org-left">Blue Bossa</td>
+<td class="org-left">A</td>
+<td class="org-left">Kenny Dorham</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BOSSA:</td>
+</tr>
+
+<tr>
+<td class="org-left">Blue Monk</td>
+<td class="org-left">A</td>
+<td class="org-left">Thelonius Monk</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BLUES:BEBOP:</td>
+</tr>
+
+<tr>
+<td class="org-left">Body and Soul</td>
+<td class="org-left">A</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:STANDARD:</td>
+</tr>
+
+<tr>
+<td class="org-left">Boplicity</td>
+<td class="org-left">A</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BEBOP:</td>
+</tr>
+
+<tr>
+<td class="org-left">Cantaloupe Island</td>
+<td class="org-left">A</td>
+<td class="org-left">Herbie Hancock</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:HARDBOP:</td>
+</tr>
+
+<tr>
+<td class="org-left">Caravan</td>
+<td class="org-left">A</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Corcovado</td>
+<td class="org-left">A</td>
+<td class="org-left">Tom Jobim</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BOSSA:</td>
+</tr>
+
+<tr>
+<td class="org-left">Donna Lee</td>
+<td class="org-left">A</td>
+<td class="org-left">Miles Davis</td>
+<td class="org-left">[Indiana](#orga6c3764)</td>
+<td class="org-left">:BEBOP:</td>
+</tr>
+
+<tr>
+<td class="org-left">Doxy</td>
+<td class="org-left">A</td>
+<td class="org-left">Sonny Rollins</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BEBOP:</td>
+</tr>
+
+<tr>
+<td class="org-left">Embraceable You</td>
+<td class="org-left">A</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:STANDARD:BALLAD:</td>
+</tr>
+
+<tr>
+<td class="org-left">Georgia on My Mind</td>
+<td class="org-left">A</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BALLAD:STANDARD:</td>
+</tr>
+
+<tr>
+<td class="org-left">Giant Steps</td>
+<td class="org-left">A</td>
+<td class="org-left">John Coltrane</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BEBOP:</td>
+</tr>
+
+<tr>
+<td class="org-left">Girl from Ipanema</td>
+<td class="org-left">A</td>
+<td class="org-left">Tom Jobim</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BOSSA:</td>
+</tr>
+
+<tr>
+<td class="org-left">Have You Met Mrs. Jones?</td>
+<td class="org-left">A</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:STANDARD:</td>
+</tr>
+
+<tr>
+<td class="org-left">Have Yourself a Merry Little Christmas</td>
+<td class="org-left">A</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:CHRISTMAS:</td>
+</tr>
+
+<tr>
+<td class="org-left">Honeysuckle Rose</td>
+<td class="org-left">A</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:STANDARD:</td>
+</tr>
+
+<tr>
+<td class="org-left">If I Only Had A Brain</td>
+<td class="org-left">A</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:MOVIE:</td>
+</tr>
+
+<tr>
+<td class="org-left">I Got Rhythm</td>
+<td class="org-left">A</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:STANDARD:</td>
+</tr>
+
+<tr>
+<td class="org-left">I&rsquo;ll Remember April</td>
+<td class="org-left">A</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:STANDARD:</td>
+</tr>
+
+<tr>
+<td class="org-left">In a Mellow Tone</td>
+<td class="org-left">A</td>
+<td class="org-left">Duke Ellington</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">In a Sentimental Mood</td>
+<td class="org-left">A</td>
+<td class="org-left">Duke Ellington</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">I Remember You</td>
+<td class="org-left">A</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BALLAD:</td>
+</tr>
+
+<tr>
+<td class="org-left">Lester Leaps In</td>
+<td class="org-left">A</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">[I Got Rhythm](#orgf3aa819)</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Like Someone in Love</td>
+<td class="org-left">A</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:STANDARD:</td>
+</tr>
+
+<tr>
+<td class="org-left">Maiden Voyage</td>
+<td class="org-left">A</td>
+<td class="org-left">Herbie Hancock</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:MODAL:</td>
+</tr>
+
+<tr>
+<td class="org-left">Mercy, Mercy, Mercy</td>
+<td class="org-left">A</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:HARDBOP:</td>
+</tr>
+
+<tr>
+<td class="org-left">Misty</td>
+<td class="org-left">A</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:STANDARD:</td>
+</tr>
+
+<tr>
+<td class="org-left">Mr P.C.</td>
+<td class="org-left">A</td>
+<td class="org-left">John Coltrane</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BEBOP:BLUES:</td>
+</tr>
+
+<tr>
+<td class="org-left">My Favorite Things</td>
+<td class="org-left">A</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:MOVIE:</td>
+</tr>
+
+<tr>
+<td class="org-left">My Funny Valentine</td>
+<td class="org-left">A</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Naima</td>
+<td class="org-left">A</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Nardis</td>
+<td class="org-left">A</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Night and Day</td>
+<td class="org-left">A</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Oleo</td>
+<td class="org-left">A</td>
+<td class="org-left">Sonny Rollins</td>
+<td class="org-left">[I Got Rhythm](#orgf3aa819)</td>
+<td class="org-left">:RHYTHM:</td>
+</tr>
+
+<tr>
+<td class="org-left">One Note Samba</td>
+<td class="org-left">A</td>
+<td class="org-left">Tom Jobim</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BOSSA:</td>
+</tr>
+
+<tr>
+<td class="org-left">Rainbow Connection</td>
+<td class="org-left">A</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BALLAD:MOVIE:</td>
+</tr>
+
+<tr>
+<td class="org-left">Rhythm-A-Ning</td>
+<td class="org-left">A</td>
+<td class="org-left">Thelonius Monk</td>
+<td class="org-left">[I Got Rhythm](#orgf3aa819)</td>
+<td class="org-left">:RHYTHM:BEBOP:</td>
+</tr>
+
+<tr>
+<td class="org-left">Salt Peanuts</td>
+<td class="org-left">A</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">[I Got Rhythm](#orgf3aa819)</td>
+<td class="org-left">:BEBOP:</td>
+</tr>
+
+<tr>
+<td class="org-left">Scrapple from the Apple</td>
+<td class="org-left">A</td>
+<td class="org-left">Charlie Parker</td>
+<td class="org-left">[Honeysuckle Rose](#org961abb6)</td>
+<td class="org-left">:BEBOP:</td>
+</tr>
+
+<tr>
+<td class="org-left">Skylark</td>
+<td class="org-left">A</td>
+<td class="org-left">Hoagy Carmichael</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BALLAD:STANDARD:</td>
+</tr>
+
+<tr>
+<td class="org-left">Solar</td>
+<td class="org-left">A</td>
+<td class="org-left">Miles Davis</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BEBOP:</td>
+</tr>
+
+<tr>
+<td class="org-left">Someday My Prince Will Come</td>
+<td class="org-left">A</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:DISNEY:MOVIE:</td>
+</tr>
+
+<tr>
+<td class="org-left">Song for my Father</td>
+<td class="org-left">A</td>
+<td class="org-left">Horace Silver</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:HARDBOP:</td>
+</tr>
+
+<tr>
+<td class="org-left">So What</td>
+<td class="org-left">A</td>
+<td class="org-left">Miles Davis</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:MODAL:</td>
+</tr>
+
+<tr>
+<td class="org-left">Stella by Starlight</td>
+<td class="org-left">A</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:STANDARD:</td>
+</tr>
+
+<tr>
+<td class="org-left">St. Thomas</td>
+<td class="org-left">A</td>
+<td class="org-left">Sonny Rollins</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Take the &ldquo;A&rdquo; Train</td>
+<td class="org-left">A</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Tea for Two</td>
+<td class="org-left">A</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Watermelon Man</td>
+<td class="org-left">A</td>
+<td class="org-left">Herbie Hancock</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:HARDBOP:</td>
+</tr>
+
+<tr>
+<td class="org-left">Wave</td>
+<td class="org-left">A</td>
+<td class="org-left">Tom Jobim</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BOSSA:</td>
+</tr>
+
+<tr>
+<td class="org-left">We See</td>
+<td class="org-left">A</td>
+<td class="org-left">Thelonius Monk</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BEBOP:</td>
+</tr>
+
+<tr>
+<td class="org-left">What is This Thing Called Love?</td>
+<td class="org-left">A</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:STANDARD:</td>
+</tr>
+
+<tr>
+<td class="org-left">When You Wish Upon a Star</td>
+<td class="org-left">A</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:DISNEY:MOVIE:</td>
+</tr>
+
+<tr>
+<td class="org-left">Alfie</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BALLAD:MOVIE:</td>
+</tr>
+
+<tr>
+<td class="org-left">All Blues</td>
+<td class="org-left">B</td>
+<td class="org-left">Miles Davis</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:MODAL:BLUES:</td>
+</tr>
+
+<tr>
+<td class="org-left">Angel Eyes</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BALLAD:STANDARD:</td>
+</tr>
+
+<tr>
+<td class="org-left">A Nightingale Sang in Berkeley Square</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:STANDARD:BALLAD:</td>
+</tr>
+
+<tr>
+<td class="org-left">Autumn in New York</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BALLAD:STANDARD:</td>
+</tr>
+
+<tr>
+<td class="org-left">Bluesette</td>
+<td class="org-left">B</td>
+<td class="org-left">Toots Thielemans</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Blue Skies</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:STANDARD:</td>
+</tr>
+
+<tr>
+<td class="org-left">Brazil</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Cherokee</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Countdown</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BEBOP:</td>
+</tr>
+
+<tr>
+<td class="org-left">Darn that Dream</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:STANDARD:</td>
+</tr>
+
+<tr>
+<td class="org-left">Desafinado</td>
+<td class="org-left">B</td>
+<td class="org-left">Tom Jobim</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BOSSA:</td>
+</tr>
+
+<tr>
+<td class="org-left">Dindi</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BOSSA:</td>
+</tr>
+
+<tr>
+<td class="org-left">Dolphin Dance</td>
+<td class="org-left">B</td>
+<td class="org-left">Herbie Hancock</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:HARDBOP:</td>
+</tr>
+
+<tr>
+<td class="org-left">Doodlin&rsquo;</td>
+<td class="org-left">B</td>
+<td class="org-left">Horace Silver</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BLUES:HARDBOP:</td>
+</tr>
+
+<tr>
+<td class="org-left">Emily</td>
+<td class="org-left">B</td>
+<td class="org-left">Johnny Mandel</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BALLAD:MOVIE:</td>
+</tr>
+
+<tr>
+<td class="org-left">Fall</td>
+<td class="org-left">B</td>
+<td class="org-left">Wayne Shorter</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:POSTBOP:</td>
+</tr>
+
+<tr>
+<td class="org-left">Footprints</td>
+<td class="org-left">B</td>
+<td class="org-left">Wayne Shorter</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:POSTBOP:</td>
+</tr>
+
+<tr>
+<td class="org-left">Four</td>
+<td class="org-left">B</td>
+<td class="org-left">Miles Davis</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BEBOP:</td>
+</tr>
+
+<tr>
+<td class="org-left">Gee, Baby, Ain&rsquo;t I Good To You</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:STANDARD:</td>
+</tr>
+
+<tr>
+<td class="org-left">God Bless The Child</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:STANDARD:BALLAD:</td>
+</tr>
+
+<tr>
+<td class="org-left">Goodbye Pork Pie Hat</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Here&rsquo;s That Rainy Day</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:STANDARD:</td>
+</tr>
+
+<tr>
+<td class="org-left">How Deep Is The Ocean?</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">How High The Moon?</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">I Ain&rsquo;t Got Nobody</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Indiana</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:STANDARD:</td>
+</tr>
+
+<tr>
+<td class="org-left">In Walked Bud</td>
+<td class="org-left">B</td>
+<td class="org-left">Thelonius Monk</td>
+<td class="org-left">[Blue Skies](#org8261a53)</td>
+<td class="org-left">:BEBOP:</td>
+</tr>
+
+<tr>
+<td class="org-left">In Your Own Sweet Way</td>
+<td class="org-left">B</td>
+<td class="org-left">Dave Brubeck</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Israel</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BLUES:</td>
+</tr>
+
+<tr>
+<td class="org-left">It Could Happen To You</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">It Don&rsquo;t Mean a Thing</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">I&rsquo;ve Got a Crush On You</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">I&rsquo;ve Got the World on a String</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Joy Spring</td>
+<td class="org-left">B</td>
+<td class="org-left">Clifford Brown</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Little Sunflower</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:MODAL:</td>
+</tr>
+
+<tr>
+<td class="org-left">Lover Man</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BALLAD:STANDARD:</td>
+</tr>
+
+<tr>
+<td class="org-left">Manha de Carnaval</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BOSSA:</td>
+</tr>
+
+<tr>
+<td class="org-left">Moment&rsquo;s Notice</td>
+<td class="org-left">B</td>
+<td class="org-left">John Coltrane</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BEBOP:</td>
+</tr>
+
+<tr>
+<td class="org-left">Mood Indigo</td>
+<td class="org-left">B</td>
+<td class="org-left">Duke Ellington</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Moon River</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:MOVIE:</td>
+</tr>
+
+<tr>
+<td class="org-left">My Foolish Heart</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:STANDARD:BALLAD:</td>
+</tr>
+
+<tr>
+<td class="org-left">My One and Only Love</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">My Romance</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Nutville</td>
+<td class="org-left">B</td>
+<td class="org-left">Horace Silver</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:HARDBOP:</td>
+</tr>
+
+<tr>
+<td class="org-left">On Green Dolphin Street</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Poinciana</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Pure Imagination</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BALLAD:MOVIE:</td>
+</tr>
+
+<tr>
+<td class="org-left">Round Midnight</td>
+<td class="org-left">B</td>
+<td class="org-left">Thelonius Monk</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BALLAD:</td>
+</tr>
+
+<tr>
+<td class="org-left">Satin Doll</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Softly, as in a Morning Sunrise</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:STANDARD:</td>
+</tr>
+
+<tr>
+<td class="org-left">Somewhere Over The Rainbow</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:MOVIE:</td>
+</tr>
+
+<tr>
+<td class="org-left">Sweet Georgia Brown</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">There is No Greater Love</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">The Surrey with the Fringe on Top</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">They Can&rsquo;t Take That Away From Me</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:STANDARD:</td>
+</tr>
+
+<tr>
+<td class="org-left">Waltz for Debby</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">What&rsquo;s New?</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">When Sunny Gets Blue</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Yesterdays</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">You&rsquo;d Be So Nice to Come Home To</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">You Don&rsquo;t Know What Love Is</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">You Took Advantage of Me</td>
+<td class="org-left">B</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Agua de Beber</td>
+<td class="org-left">C</td>
+<td class="org-left">Tom Jobim</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BOSSA:</td>
+</tr>
+
+<tr>
+<td class="org-left">Ain&rsquo;t Misbehavin&rsquo;</td>
+<td class="org-left">C</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:STANDARD:</td>
+</tr>
+
+<tr>
+<td class="org-left">Black Coffee</td>
+<td class="org-left">C</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:STANDARD:</td>
+</tr>
+
+<tr>
+<td class="org-left">Blue in Green</td>
+<td class="org-left">C</td>
+<td class="org-left">Kenny Dorham</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BOSSA:</td>
+</tr>
+
+<tr>
+<td class="org-left">But Not For Me</td>
+<td class="org-left">C</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Chelsea Bridge</td>
+<td class="org-left">C</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Easy Living</td>
+<td class="org-left">C</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:STANDARD:BALLAD:</td>
+</tr>
+
+<tr>
+<td class="org-left">Falling Grace</td>
+<td class="org-left">C</td>
+<td class="org-left">Steve Swallow</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:POSTBOP:</td>
+</tr>
+
+<tr>
+<td class="org-left">I Hear a Rhapsody</td>
+<td class="org-left">C</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">I Loves You, Porgy</td>
+<td class="org-left">C</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Lonely Woman</td>
+<td class="org-left">C</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BALLAD:</td>
+</tr>
+
+<tr>
+<td class="org-left">Lush Life</td>
+<td class="org-left">C</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BALLAD:STANDARD:</td>
+</tr>
+
+<tr>
+<td class="org-left">Nobody Else But Me</td>
+<td class="org-left">C</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">O Pato</td>
+<td class="org-left">C</td>
+<td class="org-left">Tom Jobim</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BOSSA:</td>
+</tr>
+
+<tr>
+<td class="org-left">Ruby My Dear</td>
+<td class="org-left">C</td>
+<td class="org-left">Thelonius Monk</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BALLAD:</td>
+</tr>
+
+<tr>
+<td class="org-left">So Danco Samba</td>
+<td class="org-left">C</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:BOSSA:</td>
+</tr>
+
+<tr>
+<td class="org-left">Someone to Watch Over Me</td>
+<td class="org-left">C</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">:STANDARD:BALLAD:</td>
+</tr>
+
+<tr>
+<td class="org-left">Tenderly</td>
+<td class="org-left">C</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">The Way You Look Tonight</td>
+<td class="org-left">C</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+
+<tr>
+<td class="org-left">Whisper Not</td>
+<td class="org-left">C</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+
+<a id="org25e1e7b"></a>
+
+# Alice in Wonderland :DISNEY:MOVIE:
+
+<a id="org88abddb"></a>
+
+# All of You :STANDARD:
+
+<a id="orgf8b7dc5"></a>
+
+# All The Things You Are :STANDARD:
+
+<a id="org76f079c"></a>
+
+# Alone Together :BALLAD:STANDARD:
+
+<a id="org905110c"></a>
+
+# A Night in Tunisia :BEBOP:LATIN:
+
+<a id="orgbf98e05"></a>
+
+# Anthropology :RHYTHM:
+
+<a id="orgf09940d"></a>
+
+# Autumn Leaves :STANDARD:BALLAD:
+
+<a id="org7cec40c"></a>
+
+# Bags&rsquo; Groove :BLUES:BEBOP:
+
+<a id="org6de01af"></a>
+
+# Beautiful Love :BALLAD:STANDARD:
+
+<a id="org0c84e10"></a>
+
+# Billie&rsquo;s Bounce :BLUES:BEBOP:
+
+<a id="orgf7a54a3"></a>
+
+# Blue Bossa :BOSSA:
+
+<a id="org13ee828"></a>
+
+# Blue Monk :BLUES:BEBOP:
+
+<a id="org68c2572"></a>
+
+# Body and Soul :STANDARD:
+
+<a id="orga102f1f"></a>
+
+# Boplicity :BEBOP:
+
+<a id="orgbaa28a8"></a>
+
+# Cantaloupe Island :HARDBOP:
+
+<a id="org95afd26"></a>
+
+# Caravan
+
+<a id="org5d68013"></a>
+
+# Corcovado :BOSSA:
+
+<a id="orge36890b"></a>
+
+# Donna Lee :BEBOP:
+
+<a id="orgdfed5e7"></a>
+
+# Doxy :BEBOP:
+
+<a id="orgcef9e5b"></a>
+
+# Embraceable You :STANDARD:BALLAD:
+
+<a id="orgf064d06"></a>
+
+# Georgia on My Mind :BALLAD:STANDARD:
+
+<a id="org3dbed73"></a>
+
+# Giant Steps :BEBOP:
+
+<a id="orgf78efea"></a>
+
+# Girl from Ipanema :BOSSA:
+
+<a id="org1546ea2"></a>
+
+# Have You Met Mrs. Jones? :STANDARD:
+
+<a id="org6426112"></a>
+
+# Have Yourself a Merry Little Christmas :CHRISTMAS:
+
+<a id="org961abb6"></a>
+
+# Honeysuckle Rose :STANDARD:
+
+<a id="org4964eb9"></a>
+
+# If I Only Had A Brain :MOVIE:
+
+<a id="orgf3aa819"></a>
+
+# I Got Rhythm :STANDARD:
+
+:PROPERTIES:
+:Composer: Gershwin
+:END::STANDARD:
+
+<a id="org0723bda"></a>
+
+# I&rsquo;ll Remember April :STANDARD:
+
+<a id="org7a497fc"></a>
+
+# In a Mellow Tone
+
+<a id="orgc99d066"></a>
+
+# In a Sentimental Mood
+
+<a id="org38b7a28"></a>
+
+# I Remember You :BALLAD:
+
+<a id="org3aee2c4"></a>
+
+# Lester Leaps In
+
+<a id="org4e928c1"></a>
+
+# Like Someone in Love :STANDARD:
+
+<a id="org9e3b781"></a>
+
+# Maiden Voyage :MODAL:
+
+<a id="org78df3f5"></a>
+
+# Mercy, Mercy, Mercy :HARDBOP:
+
+<a id="org3e3e848"></a>
+
+# Misty :STANDARD:
+
+<a id="org8324dde"></a>
+
+# Mr P.C. :BEBOP:BLUES:
+
+<a id="orge535927"></a>
+
+# My Favorite Things :MOVIE:
+
+<a id="org566464f"></a>
+
+# My Funny Valentine
+
+<a id="org7b350eb"></a>
+
+# Naima
+
+<a id="org5b77c31"></a>
+
+# Nardis
+
+<a id="orgc46cb1b"></a>
+
+# Night and Day
+
+<a id="org0584a9b"></a>
+
+# Oleo :RHYTHM:
+
+<a id="orgda7b8fe"></a>
+
+# One Note Samba :BOSSA:
+
+<a id="org6af79a4"></a>
+
+# Rainbow Connection :BALLAD:MOVIE:
+
+From &ldquo;The Muppet Movie&rdquo;
+
+<a id="orgf0714fe"></a>
+
+# Rhythm-A-Ning :RHYTHM:BEBOP:
+
+<a id="orgf573383"></a>
+
+# Salt Peanuts :BEBOP:
+
+<a id="org7a94ab6"></a>
+
+# Scrapple from the Apple :BEBOP:
+
+<a id="orgd203021"></a>
+
+# Skylark :BALLAD:STANDARD:
+
+<a id="org473483d"></a>
+
+# Solar :BEBOP:
+
+<a id="org5c4a53b"></a>
+
+# Someday My Prince Will Come :DISNEY:MOVIE:
+
+<a id="orgb542930"></a>
+
+# Song for my Father :HARDBOP:
+
+<a id="org8196362"></a>
+
+# So What :MODAL:
+
+<a id="orgab56f7e"></a>
+
+# Stella by Starlight :STANDARD:
+
+<a id="org67e5309"></a>
+
+# St. Thomas
+
+<a id="org088045f"></a>
+
+# Take the &ldquo;A&rdquo; Train
+
+<a id="orge5467ea"></a>
+
+# Tea for Two
+
+<a id="org3563315"></a>
+
+# Watermelon Man :HARDBOP:
+
+<a id="org8d4993b"></a>
+
+# Wave :BOSSA:
+
+<a id="org0812556"></a>
+
+# We See :BEBOP:
+
+<a id="org4a45454"></a>
+
+# What is This Thing Called Love? :STANDARD:
+
+<a id="org1fad0bc"></a>
+
+# When You Wish Upon a Star :DISNEY:MOVIE:
+
+<a id="orgf1ed84b"></a>
+
+# Alfie :BALLAD:MOVIE:
+
+:PROPERTIES:
+:Composer: Burt Bacharach
+:END::STANDARD:
+
+<a id="orge5af487"></a>
+
+# All Blues :MODAL:BLUES:
+
+<a id="org76db150"></a>
+
+# Angel Eyes :BALLAD:STANDARD:
+
+<a id="org0d1ab91"></a>
+
+# A Nightingale Sang in Berkeley Square :STANDARD:BALLAD:
+
+<a id="org95e6cbe"></a>
+
+# Autumn in New York :BALLAD:STANDARD:
+
+<a id="orgd4fe294"></a>
+
+# Bluesette
+
+<a id="org8261a53"></a>
+
+# Blue Skies :STANDARD:
+
+<a id="org18ca750"></a>
+
+# Brazil
+
+<a id="orgcf12fa9"></a>
+
+# Cherokee
+
+<a id="org0fe34f3"></a>
+
+# Countdown :BEBOP:
+
+<a id="orgf0764f2"></a>
+
+# Darn that Dream :STANDARD:
+
+<a id="org09e560d"></a>
+
+# Desafinado :BOSSA:
+
+<a id="orgc15b134"></a>
+
+# Dindi :BOSSA:
+
+<a id="orgbf3d736"></a>
+
+# Dolphin Dance :HARDBOP:
+
+<a id="orgebc2579"></a>
+
+# Doodlin&rsquo; :BLUES:HARDBOP:
+
+Slightly modified
+
+<a id="org83a177d"></a>
+
+# Emily :BALLAD:MOVIE:
+
+<a id="org8b346e8"></a>
+
+# Fall :POSTBOP:
+
+<a id="org0c89b2b"></a>
+
+# Footprints :POSTBOP:
+
+<a id="orgb1197d0"></a>
+
+# Four :BEBOP:
+
+<a id="org0fde73e"></a>
+
+# Gee, Baby, Ain&rsquo;t I Good To You :STANDARD:
+
+<a id="org245d38c"></a>
+
+# God Bless The Child :STANDARD:BALLAD:
+
+<a id="org120e96f"></a>
+
+# Goodbye Pork Pie Hat
+
+<a id="orga580a50"></a>
+
+# Here&rsquo;s That Rainy Day :STANDARD:
+
+<a id="org643b582"></a>
+
+# How Deep Is The Ocean?
+
+<a id="org2f22897"></a>
+
+# How High The Moon?
+
+<a id="org2b2cd32"></a>
+
+# I Ain&rsquo;t Got Nobody
+
+<a id="orga6c3764"></a>
+
+# Indiana :STANDARD:
+
+<a id="orgc9e2f8d"></a>
+
+# In Walked Bud :BEBOP:
+
+<a id="org5961594"></a>
+
+# In Your Own Sweet Way
+
+<a id="orgb35922a"></a>
+
+# Israel :BLUES:
+
+<a id="org434a678"></a>
+
+# It Could Happen To You
+
+<a id="org5b4c38d"></a>
+
+# It Don&rsquo;t Mean a Thing
+
+<a id="org3ac2dd3"></a>
+
+# I&rsquo;ve Got a Crush On You
+
+<a id="org6de600b"></a>
+
+# I&rsquo;ve Got the World on a String
+
+<a id="org23c75d0"></a>
+
+# Joy Spring
+
+<a id="org5079f12"></a>
+
+# Little Sunflower :MODAL:
+
+<a id="org0401316"></a>
+
+# Lover Man :BALLAD:STANDARD:
+
+<a id="orgd16f543"></a>
+
+# Manha de Carnaval :BOSSA:
+
+aka &ldquo;A Day in the Life of a Fool&rdquo; or &ldquo;(Theme from) Black Orpheus&rdquo;
+
+<a id="orgc4a4566"></a>
+
+# Moment&rsquo;s Notice :BEBOP:
+
+<a id="org20b0081"></a>
+
+# Mood Indigo
+
+<a id="orgb5a4d89"></a>
+
+# Moon River :MOVIE:
+
+<a id="org115fa6d"></a>
+
+# My Foolish Heart :STANDARD:BALLAD:
+
+<a id="orgbac2d0b"></a>
+
+# My One and Only Love
+
+<a id="orgea00031"></a>
+
+# My Romance
+
+<a id="org647401e"></a>
+
+# Nutville :HARDBOP:
+
+<a id="orgd1965e5"></a>
+
+# On Green Dolphin Street
+
+<a id="org671c17e"></a>
+
+# Poinciana
+
+<a id="orgda011c4"></a>
+
+# Pure Imagination :BALLAD:MOVIE:
+
+From &ldquo;Willy Wonka & The Chocolate Factory&rdquo;
+
+<a id="orgbc56642"></a>
+
+# Round Midnight :BALLAD:
+
+<a id="org501715a"></a>
+
+# Satin Doll
+
+<a id="org66c6a02"></a>
+
+# Softly, as in a Morning Sunrise :STANDARD:
+
+<a id="org2317a0a"></a>
+
+# Somewhere Over The Rainbow :MOVIE:
+
+<a id="org1c39cf7"></a>
+
+# Sweet Georgia Brown
+
+<a id="org8cde556"></a>
+
+# There is No Greater Love
+
+<a id="org23cc6b8"></a>
+
+# The Surrey with the Fringe on Top
+
+<a id="org838a0a0"></a>
+
+# They Can&rsquo;t Take That Away From Me :STANDARD:
+
+:PROPERTIES:
+:Composer: Gershwin
+:END::STANDARD:
+
+<a id="org995cfcf"></a>
+
+# Waltz for Debby
+
+<a id="org6d63d98"></a>
+
+# What&rsquo;s New?
+
+<a id="orgfec682e"></a>
+
+# When Sunny Gets Blue
+
+<a id="org674954e"></a>
+
+# Yesterdays
+
+<a id="orgf8da254"></a>
+
+# You&rsquo;d Be So Nice to Come Home To
+
+<a id="orged37aef"></a>
+
+# You Don&rsquo;t Know What Love Is
+
+<a id="org1488d80"></a>
+
+# You Took Advantage of Me
+
+<a id="orgb5d4761"></a>
+
+# Agua de Beber :BOSSA:
+
+<a id="orgd60c8c9"></a>
+
+# Ain&rsquo;t Misbehavin&rsquo; :STANDARD:
+
+<a id="orgeba2ab3"></a>
+
+# Black Coffee :STANDARD:
+
+<a id="org8cdf3cb"></a>
+
+# Blue in Green :BOSSA:
+
+<a id="orgac9bcd1"></a>
+
+# But Not For Me
+
+<a id="org535bea3"></a>
+
+# Chelsea Bridge
+
+<a id="org18f0fb1"></a>
+
+# Easy Living :STANDARD:BALLAD:
+
+<a id="orgbd8f544"></a>
+
+# Falling Grace :POSTBOP:
+
+<a id="org40d7ec8"></a>
+
+# I Hear a Rhapsody
+
+<a id="org195ac74"></a>
+
+# I Loves You, Porgy
+
+<a id="org2b7e648"></a>
+
+# Lonely Woman :BALLAD:
+
+:PROPERTIES:
+:Composer: Horace Silver
+:END::STANDARD:
+
+<a id="orgcf3f298"></a>
+
+# Lush Life :BALLAD:STANDARD:
+
+<a id="org21e8789"></a>
+
+# Nobody Else But Me
+
+<a id="org8065d3b"></a>
+
+# O Pato :BOSSA:
+
+<a id="org71ab244"></a>
+
+# Ruby My Dear :BALLAD:
+
+<a id="orgf4d2266"></a>
+
+# So Danco Samba :BOSSA:
+
+<a id="org3ec5878"></a>
+
+# Someone to Watch Over Me :STANDARD:BALLAD:
+
+<a id="org4a135d0"></a>
+
+# Tenderly
+
+<a id="org1db1f91"></a>
+
+# The Way You Look Tonight
+
+<a id="orgbd97dce"></a>
+
+# Whisper Not
